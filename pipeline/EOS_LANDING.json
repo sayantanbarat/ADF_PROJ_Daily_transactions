@@ -47,7 +47,10 @@
 				"outputs": [
 					{
 						"referenceName": "Ecom_Parquet",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"folder_path": "ECOM/@{formatDateTime(utcnow(),'dd-MM-yyyy')}"
+						}
 					}
 				]
 			}
