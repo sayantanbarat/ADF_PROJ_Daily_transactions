@@ -55,7 +55,13 @@
 				"outputs": [
 					{
 						"referenceName": "SUP_Parquet",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"sup__folder": {
+								"value": "SUP/@{formatDateTime(utcnow(),'dd-MM-yyyy')}",
+								"type": "Expression"
+							}
+						}
 					}
 				]
 			}
