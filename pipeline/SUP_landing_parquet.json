@@ -54,14 +54,8 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "Parquet_POS",
-						"type": "DatasetReference",
-						"parameters": {
-							"pos_folder": {
-								"value": "POS/@{formatDateTime(utcnow(),'dd-MM-yyyy')}",
-								"type": "Expression"
-							}
-						}
+						"referenceName": "SUP_Parquet",
+						"type": "DatasetReference"
 					}
 				]
 			}
