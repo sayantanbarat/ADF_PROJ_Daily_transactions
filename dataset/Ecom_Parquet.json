@@ -15,10 +15,6 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": {
-					"value": "ECOM/@{formatDateTime(utcnow(),'dd-MM-yyyy')}",
-					"type": "Expression"
-				},
 				"folderPath": {
 					"value": "@dataset().folder_path",
 					"type": "Expression"
