@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy EOS THRID PART TO LANDING",
+				"name": "Copy SUP THRID PARTY TO LANDING",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -20,7 +20,6 @@
 						"storeSettings": {
 							"type": "AzureBlobFSReadSettings",
 							"recursive": true,
-							"wildcardFileName": "*.csv",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
