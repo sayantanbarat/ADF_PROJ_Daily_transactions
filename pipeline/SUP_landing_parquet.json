@@ -16,14 +16,15 @@
 				"userProperties": [],
 				"typeProperties": {
 					"source": {
-						"type": "DelimitedTextSource",
+						"type": "ParquetSource",
 						"storeSettings": {
 							"type": "AzureBlobFSReadSettings",
 							"recursive": true,
+							"wildcardFileName": "*.parquet",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
-							"type": "DelimitedTextReadSettings"
+							"type": "ParquetReadSettings"
 						}
 					},
 					"sink": {
@@ -47,7 +48,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "csv_pos",
+						"referenceName": "Parquet_SUP",
 						"type": "DatasetReference"
 					}
 				],

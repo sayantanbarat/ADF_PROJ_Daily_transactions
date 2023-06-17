@@ -1,0 +1,41 @@
+{
+	"name": "Parquet_SUP",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "SUP",
+				"fileSystem": "thridparty"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": [
+			{
+				"name": "ProductID",
+				"type": "INT_32"
+			},
+			{
+				"name": "SupplierID",
+				"type": "INT_32"
+			},
+			{
+				"name": "StockLevel",
+				"type": "INT_32"
+			},
+			{
+				"name": "DeliveryDate",
+				"type": "TIMESTAMP_MICROS"
+			},
+			{
+				"name": "OrderDate",
+				"type": "UTF8"
+			}
+		]
+	}
+}
