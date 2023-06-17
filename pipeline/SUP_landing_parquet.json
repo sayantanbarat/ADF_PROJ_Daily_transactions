@@ -1,5 +1,5 @@
 {
-	"name": "POS_landing_csv_copy1",
+	"name": "SUP_landing_parquet",
 	"properties": {
 		"activities": [
 			{
