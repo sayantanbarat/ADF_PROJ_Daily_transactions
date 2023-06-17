@@ -1,0 +1,38 @@
+{
+	"name": "ecom_json",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "ECOM",
+				"fileSystem": "thridparty"
+			}
+		},
+		"schema": {
+			"type": "object",
+			"properties": {
+				"SessionID": {
+					"type": "integer"
+				},
+				"UserID": {
+					"type": "integer"
+				},
+				"ProductID": {
+					"type": "integer"
+				},
+				"Action": {
+					"type": "string"
+				},
+				"Timestamp": {
+					"type": "string"
+				}
+			}
+		}
+	}
+}
