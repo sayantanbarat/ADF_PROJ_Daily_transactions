@@ -1,0 +1,54 @@
+{
+	"name": "Parquet_sup_stage",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage2",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"folder_p": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "SUP",
+				"fileSystem": "staged"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": [
+			{
+				"name": "TransactionID",
+				"type": "UTF8"
+			},
+			{
+				"name": "StoreID",
+				"type": "UTF8"
+			},
+			{
+				"name": "ProductID",
+				"type": "UTF8"
+			},
+			{
+				"name": "Quantity",
+				"type": "UTF8"
+			},
+			{
+				"name": "Price",
+				"type": "UTF8"
+			},
+			{
+				"name": "TotalSale",
+				"type": "UTF8"
+			},
+			{
+				"name": "Timestamp",
+				"type": "UTF8"
+			}
+		]
+	}
+}
