@@ -8,7 +8,22 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
+		"ecom_Databricks_accessToken": {
+			"value": ""
+		},
+		"AzureDataLakeStorage2_accountKey": {
+			"value": ""
+		},
+		"ecom_sql_ls_connectionString": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://proj2storagesb.dfs.core.windows.net/"
+		},
+		"ecom_Databricks_properties_typeProperties_existingClusterId": {
+			"value": "0617-163117-9xnasxny"
+		},
+		"AzureDataLakeStorage2_properties_typeProperties_url": {
 			"value": "https://proj2storagesb.dfs.core.windows.net/"
 		},
 		"containerUri": {
