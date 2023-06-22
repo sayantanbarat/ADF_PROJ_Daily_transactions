@@ -134,6 +134,92 @@
 					"enableStaging": false,
 					"translator": {
 						"type": "TabularTranslator",
+						"mappings": [
+							{
+								"source": {
+									"name": "SessionID",
+									"type": "Int64",
+									"physicalType": "INT64"
+								},
+								"sink": {
+									"name": "SessionID",
+									"type": "Int64",
+									"physicalType": "bigint"
+								}
+							},
+							{
+								"source": {
+									"name": "UserID",
+									"type": "Int64",
+									"physicalType": "INT64"
+								},
+								"sink": {
+									"name": "UserID",
+									"type": "Int64",
+									"physicalType": "bigint"
+								}
+							},
+							{
+								"source": {
+									"name": "ProductID",
+									"type": "Int64",
+									"physicalType": "INT64"
+								},
+								"sink": {
+									"name": "ProductID",
+									"type": "Int64",
+									"physicalType": "bigint"
+								}
+							},
+							{
+								"source": {
+									"name": "Action",
+									"type": "String",
+									"physicalType": "UTF8"
+								},
+								"sink": {
+									"name": "Action",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "Timestamp",
+									"type": "String",
+									"physicalType": "UTF8"
+								},
+								"sink": {
+									"name": "Timestamp",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "Year",
+									"type": "Int32",
+									"physicalType": "INT32"
+								},
+								"sink": {
+									"name": "Year",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							},
+							{
+								"source": {
+									"name": "Month",
+									"type": "Int32",
+									"physicalType": "INT32"
+								},
+								"sink": {
+									"name": "Month",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							}
+						],
 						"typeConversion": true,
 						"typeConversionSettings": {
 							"allowDataTruncation": true,
