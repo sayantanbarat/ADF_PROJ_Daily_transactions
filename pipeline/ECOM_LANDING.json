@@ -73,6 +73,9 @@
 					"secureInput": false
 				},
 				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/azureproj2@gmail.com/Ecom_Impl"
+				},
 				"linkedServiceName": {
 					"referenceName": "ecom_Databricks",
 					"type": "LinkedServiceReference"
