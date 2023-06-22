@@ -230,7 +230,13 @@
 				"inputs": [
 					{
 						"referenceName": "Parquet1",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"folder_path": {
+								"value": "POS/@{formatDateTime(utcnow(),'dd-MM-yyyy')}",
+								"type": "Expression"
+							}
+						}
 					}
 				],
 				"outputs": [
