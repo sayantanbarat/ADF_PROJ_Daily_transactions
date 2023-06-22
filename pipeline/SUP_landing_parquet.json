@@ -83,10 +83,17 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/azureproj2@gmail.com/Supplier_Impl"
+				},
+				"linkedServiceName": {
+					"referenceName": "AzureDatabricks_sup",
+					"type": "LinkedServiceReference"
+				}
 			},
 			{
-				"name": "Copy data1",
+				"name": "sup_sql_server",
 				"type": "Copy",
 				"dependsOn": [
 					{
