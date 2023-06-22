@@ -9,6 +9,12 @@
 					"referenceName": "ECOM_LANDING",
 					"type": "PipelineReference"
 				}
+			},
+			{
+				"pipelineReference": {
+					"referenceName": "POS_landing_csv",
+					"type": "PipelineReference"
+				}
 			}
 		],
 		"type": "ScheduleTrigger",
