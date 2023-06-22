@@ -17,6 +17,9 @@
 		"ecom_sql_ls_connectionString": {
 			"value": ""
 		},
+		"AzureDatabricks_pos_accessToken": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://proj2storagesb.dfs.core.windows.net/"
 		},
@@ -25,6 +28,9 @@
 		},
 		"AzureDataLakeStorage2_properties_typeProperties_url": {
 			"value": "https://proj2storagesb.dfs.core.windows.net/"
+		},
+		"AzureDatabricks_pos_properties_typeProperties_existingClusterId": {
+			"value": "0617-163117-9xnasxny"
 		}
 	}
 }

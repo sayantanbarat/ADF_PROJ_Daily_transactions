@@ -23,6 +23,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'connectionString' of 'ecom_sql_ls'"
 		},
+		"AzureDatabricks_pos_accessToken": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accessToken' of 'AzureDatabricks_pos'"
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "https://proj2storagesb.dfs.core.windows.net/"
@@ -34,6 +38,10 @@
 		"AzureDataLakeStorage2_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "https://proj2storagesb.dfs.core.windows.net/"
+		},
+		"AzureDatabricks_pos_properties_typeProperties_existingClusterId": {
+			"type": "string",
+			"defaultValue": "0617-163117-9xnasxny"
 		},
 		"containerUri": {
 			"type": "string",
@@ -74,6 +82,9 @@
 					"ecom_sql_ls_connectionString": {
 						"value": "[parameters('ecom_sql_ls_connectionString')]"
 					},
+					"AzureDatabricks_pos_accessToken": {
+						"value": "[parameters('AzureDatabricks_pos_accessToken')]"
+					},
 					"AzureDataLakeStorage1_properties_typeProperties_url": {
 						"value": "[parameters('AzureDataLakeStorage1_properties_typeProperties_url')]"
 					},
@@ -82,6 +93,9 @@
 					},
 					"AzureDataLakeStorage2_properties_typeProperties_url": {
 						"value": "[parameters('AzureDataLakeStorage2_properties_typeProperties_url')]"
+					},
+					"AzureDatabricks_pos_properties_typeProperties_existingClusterId": {
+						"value": "[parameters('AzureDatabricks_pos_properties_typeProperties_existingClusterId')]"
 					}
 				}
 			},
