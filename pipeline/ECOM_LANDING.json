@@ -1,9 +1,9 @@
 {
-	"name": "EOS_LANDING",
+	"name": "ECOM_LANDING",
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy EOS THRID PART TO LANDING",
+				"name": "Copy ECOM THRID PART TO LANDING",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
