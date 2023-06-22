@@ -1,0 +1,1000 @@
+{"SessionID":101,"UserID":11,"ProductID":1469,"Action":"Login","Timestamp":"2023-01-14 10:17:11"}
+{"SessionID":102,"UserID":12,"ProductID":1396,"Action":"Logout","Timestamp":"2023-05-13 07:54:35"}
+{"SessionID":103,"UserID":13,"ProductID":1528,"Action":"Logout","Timestamp":"2023-05-20 23:41:18"}
+{"SessionID":104,"UserID":14,"ProductID":1620,"Action":"Logout","Timestamp":"2022-08-30 02:02:34"}
+{"SessionID":null,"UserID":null,"ProductID":1614,"Action":null,"Timestamp":"2023-05-09 23:28:18"}
+{"SessionID":106,"UserID":16,"ProductID":1795,"Action":"Login","Timestamp":null}
+{"SessionID":107,"UserID":17,"ProductID":1983,"Action":"Logout","Timestamp":"2022-09-04 05:03:08"}
+{"SessionID":108,"UserID":18,"ProductID":1987,"Action":"Login","Timestamp":"2022-07-11 19:23:00"}
+{"SessionID":109,"UserID":19,"ProductID":1977,"Action":"Logout","Timestamp":null}
+{"SessionID":110,"UserID":20,"ProductID":1506,"Action":"Login","Timestamp":"2023-02-25 07:04:14"}
+{"SessionID":111,"UserID":21,"ProductID":1127,"Action":"Login","Timestamp":"2022-11-28 16:47:02"}
+{"SessionID":112,"UserID":22,"ProductID":1836,"Action":"Login","Timestamp":"2022-12-11 23:19:53"}
+{"SessionID":113,"UserID":23,"ProductID":1243,"Action":"Login","Timestamp":"2023-02-17 00:02:53"}
+{"SessionID":114,"UserID":24,"ProductID":1201,"Action":"Logout","Timestamp":"2023-03-13 13:09:46"}
+{"SessionID":115,"UserID":25,"ProductID":1038,"Action":"Login","Timestamp":"2022-11-11 13:06:39"}
+{"SessionID":116,"UserID":26,"ProductID":1106,"Action":"Logout","Timestamp":null}
+{"SessionID":null,"UserID":27,"ProductID":1997,"Action":null,"Timestamp":"2022-08-14 16:02:26"}
+{"SessionID":118,"UserID":28,"ProductID":1952,"Action":"Logout","Timestamp":null}
+{"SessionID":119,"UserID":29,"ProductID":1139,"Action":"Logout","Timestamp":null}
+{"SessionID":120,"UserID":30,"ProductID":1266,"Action":"Logout","Timestamp":"2022-09-25 23:47:38"}
+{"SessionID":121,"UserID":null,"ProductID":1114,"Action":"Logout","Timestamp":"2022-09-15 13:30:11"}
+{"SessionID":122,"UserID":32,"ProductID":1318,"Action":"Login","Timestamp":"2023-01-11 00:25:15"}
+{"SessionID":123,"UserID":33,"ProductID":1109,"Action":"Logout","Timestamp":"2022-10-21 12:09:39"}
+{"SessionID":124,"UserID":34,"ProductID":1644,"Action":"Login","Timestamp":"2023-05-12 11:42:42"}
+{"SessionID":125,"UserID":35,"ProductID":1142,"Action":"Login","Timestamp":"2023-05-07 16:09:39"}
+{"SessionID":126,"UserID":null,"ProductID":1021,"Action":"Login","Timestamp":"2023-04-06 01:49:47"}
+{"SessionID":127,"UserID":37,"ProductID":null,"Action":"Logout","Timestamp":"2023-03-04 21:15:57"}
+{"SessionID":128,"UserID":38,"ProductID":1280,"Action":"Login","Timestamp":"2022-09-02 19:12:22"}
+{"SessionID":129,"UserID":39,"ProductID":1473,"Action":"Login","Timestamp":"2023-03-29 05:33:11"}
+{"SessionID":130,"UserID":40,"ProductID":1497,"Action":"Login","Timestamp":"2022-07-04 01:11:29"}
+{"SessionID":131,"UserID":41,"ProductID":1684,"Action":"Logout","Timestamp":"2022-10-18 22:19:52"}
+{"SessionID":null,"UserID":42,"ProductID":1617,"Action":null,"Timestamp":"2022-06-06 17:30:50"}
+{"SessionID":133,"UserID":43,"ProductID":1580,"Action":"Login","Timestamp":"2023-03-28 11:03:47"}
+{"SessionID":134,"UserID":44,"ProductID":1398,"Action":"Logout","Timestamp":"2022-08-11 07:50:50"}
+{"SessionID":135,"UserID":45,"ProductID":1343,"Action":"Logout","Timestamp":null}
+{"SessionID":136,"UserID":46,"ProductID":1537,"Action":"Login","Timestamp":null}
+{"SessionID":137,"UserID":47,"ProductID":1923,"Action":"Login","Timestamp":"2022-09-23 14:52:23"}
+{"SessionID":138,"UserID":48,"ProductID":1415,"Action":"Logout","Timestamp":"2022-07-10 19:52:32"}
+{"SessionID":139,"UserID":null,"ProductID":null,"Action":"Logout","Timestamp":"2022-10-31 16:16:02"}
+{"SessionID":140,"UserID":50,"ProductID":1347,"Action":"Login","Timestamp":"2022-08-26 00:09:49"}
+{"SessionID":141,"UserID":null,"ProductID":1786,"Action":"Login","Timestamp":"2022-09-14 06:55:07"}
+{"SessionID":142,"UserID":52,"ProductID":1093,"Action":"Logout","Timestamp":"2022-11-06 15:43:34"}
+{"SessionID":143,"UserID":53,"ProductID":1900,"Action":"Login","Timestamp":"2022-05-24 18:37:48"}
+{"SessionID":144,"UserID":54,"ProductID":null,"Action":"Login","Timestamp":"2022-12-25 11:42:19"}
+{"SessionID":145,"UserID":55,"ProductID":1665,"Action":"Logout","Timestamp":"2023-01-19 00:35:11"}
+{"SessionID":146,"UserID":56,"ProductID":1550,"Action":"Logout","Timestamp":"2022-11-30 22:17:33"}
+{"SessionID":147,"UserID":57,"ProductID":1684,"Action":"Logout","Timestamp":"2022-11-25 21:01:59"}
+{"SessionID":148,"UserID":58,"ProductID":1794,"Action":"Login","Timestamp":"2022-07-13 06:56:19"}
+{"SessionID":149,"UserID":59,"ProductID":1196,"Action":"Login","Timestamp":"2022-08-19 08:38:09"}
+{"SessionID":150,"UserID":null,"ProductID":1291,"Action":"Logout","Timestamp":"2023-03-27 20:27:34"}
+{"SessionID":151,"UserID":61,"ProductID":1061,"Action":"Login","Timestamp":"2022-07-13 18:47:40"}
+{"SessionID":152,"UserID":62,"ProductID":1750,"Action":"Login","Timestamp":"2023-02-02 13:10:13"}
+{"SessionID":153,"UserID":63,"ProductID":1956,"Action":"Logout","Timestamp":"2022-12-16 16:34:25"}
+{"SessionID":154,"UserID":null,"ProductID":1924,"Action":"Logout","Timestamp":null}
+{"SessionID":155,"UserID":65,"ProductID":1304,"Action":"Logout","Timestamp":"2023-01-24 20:46:21"}
+{"SessionID":156,"UserID":66,"ProductID":1260,"Action":"Login","Timestamp":"2022-12-06 15:50:08"}
+{"SessionID":157,"UserID":67,"ProductID":null,"Action":"Login","Timestamp":"2023-02-23 15:14:54"}
+{"SessionID":158,"UserID":68,"ProductID":1926,"Action":"Logout","Timestamp":"2022-12-17 14:10:23"}
+{"SessionID":159,"UserID":69,"ProductID":1858,"Action":"Login","Timestamp":"2022-07-06 16:43:16"}
+{"SessionID":160,"UserID":70,"ProductID":1972,"Action":"Logout","Timestamp":"2022-08-21 11:11:11"}
+{"SessionID":161,"UserID":71,"ProductID":1625,"Action":"Login","Timestamp":"2022-11-15 13:41:35"}
+{"SessionID":162,"UserID":72,"ProductID":1061,"Action":"Login","Timestamp":"2023-03-28 19:50:34"}
+{"SessionID":163,"UserID":73,"ProductID":1014,"Action":"Login","Timestamp":"2023-03-11 12:13:14"}
+{"SessionID":164,"UserID":74,"ProductID":1432,"Action":"Logout","Timestamp":null}
+{"SessionID":165,"UserID":75,"ProductID":1336,"Action":"Login","Timestamp":"2022-07-31 19:54:14"}
+{"SessionID":166,"UserID":76,"ProductID":1893,"Action":"Logout","Timestamp":"2023-01-15 04:59:43"}
+{"SessionID":167,"UserID":77,"ProductID":1703,"Action":"Logout","Timestamp":"2022-12-22 20:40:44"}
+{"SessionID":168,"UserID":78,"ProductID":1294,"Action":"Logout","Timestamp":"2022-12-22 17:03:46"}
+{"SessionID":169,"UserID":79,"ProductID":1153,"Action":"Logout","Timestamp":"2022-08-05 17:32:31"}
+{"SessionID":170,"UserID":null,"ProductID":1378,"Action":"Login","Timestamp":"2023-05-13 06:11:53"}
+{"SessionID":171,"UserID":81,"ProductID":1605,"Action":"Logout","Timestamp":"2023-01-18 12:30:07"}
+{"SessionID":172,"UserID":82,"ProductID":1130,"Action":"Login","Timestamp":"2023-01-16 13:32:25"}
+{"SessionID":173,"UserID":null,"ProductID":1717,"Action":"Login","Timestamp":"2023-03-20 01:03:26"}
+{"SessionID":174,"UserID":84,"ProductID":1631,"Action":"Login","Timestamp":"2022-06-27 11:27:16"}
+{"SessionID":175,"UserID":85,"ProductID":1770,"Action":"Logout","Timestamp":"2023-04-14 14:37:19"}
+{"SessionID":176,"UserID":86,"ProductID":1381,"Action":"Login","Timestamp":"2023-03-04 20:05:09"}
+{"SessionID":177,"UserID":87,"ProductID":1289,"Action":"Logout","Timestamp":"2022-12-15 19:05:29"}
+{"SessionID":null,"UserID":88,"ProductID":1193,"Action":null,"Timestamp":"2022-08-21 21:20:35"}
+{"SessionID":179,"UserID":89,"ProductID":1985,"Action":"Logout","Timestamp":"2023-03-18 17:57:58"}
+{"SessionID":180,"UserID":90,"ProductID":1995,"Action":"Login","Timestamp":null}
+{"SessionID":181,"UserID":91,"ProductID":1166,"Action":"Login","Timestamp":"2022-08-04 13:30:19"}
+{"SessionID":null,"UserID":92,"ProductID":1829,"Action":null,"Timestamp":"2023-05-09 15:04:06"}
+{"SessionID":183,"UserID":null,"ProductID":1771,"Action":"Logout","Timestamp":"2023-05-12 16:20:18"}
+{"SessionID":184,"UserID":94,"ProductID":1827,"Action":"Login","Timestamp":null}
+{"SessionID":185,"UserID":95,"ProductID":1485,"Action":"Login","Timestamp":"2023-01-03 15:10:44"}
+{"SessionID":186,"UserID":null,"ProductID":1813,"Action":"Login","Timestamp":"2022-10-21 22:28:29"}
+{"SessionID":187,"UserID":97,"ProductID":1787,"Action":"Logout","Timestamp":null}
+{"SessionID":188,"UserID":98,"ProductID":1754,"Action":"Login","Timestamp":"2023-01-17 22:58:47"}
+{"SessionID":189,"UserID":99,"ProductID":1906,"Action":"Logout","Timestamp":null}
+{"SessionID":190,"UserID":null,"ProductID":1229,"Action":"Login","Timestamp":"2022-08-29 23:18:51"}
+{"SessionID":191,"UserID":101,"ProductID":1173,"Action":"Logout","Timestamp":"2022-12-19 02:15:23"}
+{"SessionID":192,"UserID":102,"ProductID":1285,"Action":"Login","Timestamp":"2022-07-17 13:17:04"}
+{"SessionID":193,"UserID":103,"ProductID":null,"Action":"Login","Timestamp":"2023-01-21 15:56:02"}
+{"SessionID":194,"UserID":104,"ProductID":1239,"Action":"Login","Timestamp":"2022-10-15 02:16:05"}
+{"SessionID":195,"UserID":105,"ProductID":null,"Action":"Logout","Timestamp":"2022-08-09 22:19:17"}
+{"SessionID":196,"UserID":106,"ProductID":1948,"Action":"Login","Timestamp":"2023-04-08 20:10:11"}
+{"SessionID":197,"UserID":107,"ProductID":1900,"Action":"Logout","Timestamp":"2022-06-06 00:35:50"}
+{"SessionID":198,"UserID":108,"ProductID":1927,"Action":"Logout","Timestamp":"2022-08-29 16:31:57"}
+{"SessionID":199,"UserID":109,"ProductID":1989,"Action":"Logout","Timestamp":"2022-11-12 10:27:15"}
+{"SessionID":200,"UserID":110,"ProductID":1271,"Action":"Login","Timestamp":"2022-12-25 02:07:59"}
+{"SessionID":201,"UserID":null,"ProductID":1637,"Action":"Logout","Timestamp":"2023-03-10 10:34:05"}
+{"SessionID":202,"UserID":112,"ProductID":1120,"Action":"Logout","Timestamp":"2022-10-15 14:06:48"}
+{"SessionID":203,"UserID":113,"ProductID":1517,"Action":"Logout","Timestamp":"2023-04-06 16:10:25"}
+{"SessionID":204,"UserID":114,"ProductID":1788,"Action":"Logout","Timestamp":"2023-02-24 04:10:01"}
+{"SessionID":205,"UserID":115,"ProductID":1114,"Action":"Login","Timestamp":"2022-10-08 03:45:11"}
+{"SessionID":206,"UserID":116,"ProductID":null,"Action":"Logout","Timestamp":"2022-10-25 17:55:44"}
+{"SessionID":207,"UserID":117,"ProductID":1612,"Action":"Logout","Timestamp":"2022-08-13 21:38:06"}
+{"SessionID":null,"UserID":118,"ProductID":1499,"Action":null,"Timestamp":"2022-09-22 00:00:16"}
+{"SessionID":209,"UserID":null,"ProductID":1712,"Action":"Login","Timestamp":"2022-09-03 13:14:58"}
+{"SessionID":210,"UserID":120,"ProductID":1362,"Action":"Login","Timestamp":"2022-12-17 03:56:04"}
+{"SessionID":211,"UserID":121,"ProductID":1040,"Action":"Logout","Timestamp":"2022-08-17 01:37:55"}
+{"SessionID":212,"UserID":122,"ProductID":1907,"Action":"Logout","Timestamp":null}
+{"SessionID":213,"UserID":123,"ProductID":1063,"Action":"Login","Timestamp":"2022-10-15 18:53:49"}
+{"SessionID":214,"UserID":124,"ProductID":1532,"Action":"Login","Timestamp":"2022-07-28 09:22:20"}
+{"SessionID":215,"UserID":125,"ProductID":1477,"Action":"Login","Timestamp":"2023-03-10 12:54:00"}
+{"SessionID":216,"UserID":null,"ProductID":1307,"Action":"Logout","Timestamp":"2022-05-29 12:42:03"}
+{"SessionID":217,"UserID":127,"ProductID":1200,"Action":"Logout","Timestamp":"2022-07-24 01:12:58"}
+{"SessionID":null,"UserID":128,"ProductID":1404,"Action":null,"Timestamp":"2023-04-17 23:59:58"}
+{"SessionID":219,"UserID":129,"ProductID":1157,"Action":"Login","Timestamp":null}
+{"SessionID":220,"UserID":130,"ProductID":1390,"Action":"Login","Timestamp":"2023-04-01 06:38:39"}
+{"SessionID":221,"UserID":null,"ProductID":1138,"Action":"Login","Timestamp":"2023-03-31 09:37:46"}
+{"SessionID":222,"UserID":132,"ProductID":1700,"Action":"Logout","Timestamp":"2023-02-24 23:10:37"}
+{"SessionID":223,"UserID":null,"ProductID":1052,"Action":"Login","Timestamp":"2022-12-17 19:40:15"}
+{"SessionID":224,"UserID":134,"ProductID":1302,"Action":"Login","Timestamp":"2023-01-08 17:39:13"}
+{"SessionID":225,"UserID":null,"ProductID":1686,"Action":"Login","Timestamp":"2022-07-31 07:25:03"}
+{"SessionID":226,"UserID":136,"ProductID":1971,"Action":"Login","Timestamp":"2023-04-20 21:18:46"}
+{"SessionID":227,"UserID":137,"ProductID":1637,"Action":"Login","Timestamp":"2023-01-17 10:34:38"}
+{"SessionID":228,"UserID":138,"ProductID":1275,"Action":"Logout","Timestamp":"2022-08-01 11:27:09"}
+{"SessionID":229,"UserID":null,"ProductID":1416,"Action":"Logout","Timestamp":null}
+{"SessionID":230,"UserID":null,"ProductID":1941,"Action":"Logout","Timestamp":"2023-02-15 17:17:18"}
+{"SessionID":231,"UserID":141,"ProductID":1957,"Action":"Logout","Timestamp":"2022-10-14 22:33:23"}
+{"SessionID":232,"UserID":142,"ProductID":1650,"Action":"Login","Timestamp":null}
+{"SessionID":233,"UserID":143,"ProductID":1756,"Action":"Login","Timestamp":"2023-01-11 12:03:49"}
+{"SessionID":234,"UserID":144,"ProductID":1064,"Action":"Login","Timestamp":"2022-08-02 13:01:18"}
+{"SessionID":235,"UserID":145,"ProductID":1551,"Action":"Login","Timestamp":"2022-08-09 21:48:04"}
+{"SessionID":236,"UserID":146,"ProductID":1327,"Action":"Logout","Timestamp":"2023-01-04 00:07:11"}
+{"SessionID":237,"UserID":147,"ProductID":1732,"Action":"Logout","Timestamp":"2023-04-12 17:06:46"}
+{"SessionID":238,"UserID":148,"ProductID":1374,"Action":"Login","Timestamp":"2022-12-02 21:27:48"}
+{"SessionID":239,"UserID":149,"ProductID":1223,"Action":"Logout","Timestamp":"2022-10-15 11:48:37"}
+{"SessionID":240,"UserID":150,"ProductID":1169,"Action":"Logout","Timestamp":"2023-03-17 04:03:44"}
+{"SessionID":241,"UserID":151,"ProductID":1000,"Action":"Logout","Timestamp":"2023-03-04 20:02:46"}
+{"SessionID":242,"UserID":null,"ProductID":null,"Action":"Logout","Timestamp":"2022-10-10 03:34:15"}
+{"SessionID":243,"UserID":153,"ProductID":1680,"Action":"Logout","Timestamp":"2022-06-18 09:16:00"}
+{"SessionID":244,"UserID":154,"ProductID":1767,"Action":"Logout","Timestamp":"2023-02-02 23:07:16"}
+{"SessionID":245,"UserID":155,"ProductID":1969,"Action":"Logout","Timestamp":"2023-02-10 13:29:01"}
+{"SessionID":246,"UserID":156,"ProductID":1583,"Action":"Login","Timestamp":"2022-11-14 04:15:39"}
+{"SessionID":247,"UserID":157,"ProductID":1730,"Action":"Login","Timestamp":"2023-05-01 20:32:25"}
+{"SessionID":248,"UserID":158,"ProductID":1253,"Action":"Login","Timestamp":null}
+{"SessionID":249,"UserID":159,"ProductID":null,"Action":"Logout","Timestamp":null}
+{"SessionID":250,"UserID":160,"ProductID":1362,"Action":"Login","Timestamp":"2023-03-06 22:58:21"}
+{"SessionID":251,"UserID":null,"ProductID":1189,"Action":"Login","Timestamp":"2022-07-01 11:35:41"}
+{"SessionID":252,"UserID":162,"ProductID":1669,"Action":"Login","Timestamp":"2023-01-23 14:24:15"}
+{"SessionID":253,"UserID":163,"ProductID":null,"Action":"Logout","Timestamp":"2022-12-20 01:04:10"}
+{"SessionID":254,"UserID":164,"ProductID":1460,"Action":"Logout","Timestamp":"2023-01-20 17:37:29"}
+{"SessionID":255,"UserID":165,"ProductID":1954,"Action":"Login","Timestamp":null}
+{"SessionID":256,"UserID":null,"ProductID":1153,"Action":"Logout","Timestamp":"2023-04-28 09:35:42"}
+{"SessionID":257,"UserID":167,"ProductID":1649,"Action":"Login","Timestamp":"2023-02-04 21:30:34"}
+{"SessionID":258,"UserID":168,"ProductID":1736,"Action":"Login","Timestamp":"2023-03-26 16:20:31"}
+{"SessionID":259,"UserID":169,"ProductID":null,"Action":"Logout","Timestamp":"2022-05-29 02:24:25"}
+{"SessionID":260,"UserID":170,"ProductID":1719,"Action":"Login","Timestamp":"2022-11-26 22:01:31"}
+{"SessionID":null,"UserID":171,"ProductID":1693,"Action":null,"Timestamp":"2022-07-11 04:26:08"}
+{"SessionID":262,"UserID":172,"ProductID":1030,"Action":"Logout","Timestamp":"2023-01-13 01:27:51"}
+{"SessionID":263,"UserID":173,"ProductID":1495,"Action":"Logout","Timestamp":"2023-04-09 23:05:55"}
+{"SessionID":264,"UserID":174,"ProductID":1804,"Action":"Logout","Timestamp":null}
+{"SessionID":265,"UserID":175,"ProductID":1652,"Action":"Login","Timestamp":"2022-12-04 14:44:22"}
+{"SessionID":null,"UserID":176,"ProductID":1272,"Action":null,"Timestamp":"2022-06-25 15:22:11"}
+{"SessionID":267,"UserID":177,"ProductID":1619,"Action":"Login","Timestamp":"2023-01-20 03:25:09"}
+{"SessionID":268,"UserID":178,"ProductID":1998,"Action":"Logout","Timestamp":"2023-02-03 17:14:30"}
+{"SessionID":269,"UserID":179,"ProductID":1628,"Action":"Logout","Timestamp":"2023-01-03 10:40:39"}
+{"SessionID":270,"UserID":180,"ProductID":1646,"Action":"Login","Timestamp":"2022-10-22 16:37:57"}
+{"SessionID":271,"UserID":181,"ProductID":1179,"Action":"Logout","Timestamp":"2022-08-02 22:01:00"}
+{"SessionID":272,"UserID":182,"ProductID":1202,"Action":"Logout","Timestamp":"2022-09-14 04:21:58"}
+{"SessionID":273,"UserID":183,"ProductID":1213,"Action":"Login","Timestamp":"2023-04-17 13:08:49"}
+{"SessionID":274,"UserID":184,"ProductID":1625,"Action":"Logout","Timestamp":"2022-11-22 00:58:03"}
+{"SessionID":275,"UserID":185,"ProductID":1839,"Action":"Login","Timestamp":"2022-09-17 08:57:13"}
+{"SessionID":276,"UserID":186,"ProductID":1111,"Action":"Logout","Timestamp":"2022-12-23 11:59:37"}
+{"SessionID":277,"UserID":187,"ProductID":1351,"Action":"Login","Timestamp":"2022-07-03 03:58:24"}
+{"SessionID":278,"UserID":188,"ProductID":1309,"Action":"Logout","Timestamp":"2022-10-25 15:43:31"}
+{"SessionID":279,"UserID":189,"ProductID":1772,"Action":"Login","Timestamp":"2022-12-26 23:41:03"}
+{"SessionID":null,"UserID":190,"ProductID":1960,"Action":null,"Timestamp":"2022-06-13 04:33:55"}
+{"SessionID":281,"UserID":191,"ProductID":1927,"Action":"Login","Timestamp":"2022-07-21 14:41:55"}
+{"SessionID":282,"UserID":192,"ProductID":1993,"Action":"Login","Timestamp":"2023-02-10 02:12:49"}
+{"SessionID":283,"UserID":193,"ProductID":1241,"Action":"Logout","Timestamp":"2022-12-05 06:09:16"}
+{"SessionID":284,"UserID":194,"ProductID":1100,"Action":"Logout","Timestamp":"2022-12-06 01:53:57"}
+{"SessionID":285,"UserID":null,"ProductID":1532,"Action":"Logout","Timestamp":null}
+{"SessionID":286,"UserID":196,"ProductID":1369,"Action":"Login","Timestamp":"2022-09-13 16:15:30"}
+{"SessionID":287,"UserID":197,"ProductID":1326,"Action":"Logout","Timestamp":"2022-11-22 02:31:50"}
+{"SessionID":288,"UserID":null,"ProductID":1595,"Action":"Login","Timestamp":"2022-10-03 00:19:12"}
+{"SessionID":289,"UserID":199,"ProductID":1761,"Action":"Logout","Timestamp":"2023-04-16 10:08:54"}
+{"SessionID":290,"UserID":200,"ProductID":1396,"Action":"Login","Timestamp":"2022-07-09 09:08:13"}
+{"SessionID":291,"UserID":201,"ProductID":1401,"Action":"Login","Timestamp":"2022-10-09 07:21:49"}
+{"SessionID":292,"UserID":202,"ProductID":1155,"Action":"Logout","Timestamp":"2022-10-16 00:57:40"}
+{"SessionID":293,"UserID":203,"ProductID":1525,"Action":"Login","Timestamp":"2022-06-10 09:22:40"}
+{"SessionID":294,"UserID":null,"ProductID":1633,"Action":"Login","Timestamp":"2023-02-27 04:17:46"}
+{"SessionID":295,"UserID":205,"ProductID":1748,"Action":"Login","Timestamp":"2023-02-16 22:55:36"}
+{"SessionID":296,"UserID":206,"ProductID":1492,"Action":"Login","Timestamp":"2022-07-25 01:20:27"}
+{"SessionID":297,"UserID":207,"ProductID":null,"Action":"Logout","Timestamp":"2022-10-12 08:37:25"}
+{"SessionID":298,"UserID":208,"ProductID":null,"Action":"Login","Timestamp":"2023-03-13 11:34:20"}
+{"SessionID":299,"UserID":209,"ProductID":1034,"Action":"Logout","Timestamp":"2022-12-13 20:22:07"}
+{"SessionID":300,"UserID":210,"ProductID":1739,"Action":"Login","Timestamp":"2022-12-13 02:18:23"}
+{"SessionID":301,"UserID":211,"ProductID":1845,"Action":"Login","Timestamp":"2022-06-17 11:38:53"}
+{"SessionID":302,"UserID":212,"ProductID":1566,"Action":"Logout","Timestamp":"2023-05-06 01:11:43"}
+{"SessionID":303,"UserID":213,"ProductID":1676,"Action":"Login","Timestamp":"2023-02-11 04:25:08"}
+{"SessionID":304,"UserID":214,"ProductID":1309,"Action":"Logout","Timestamp":"2022-11-25 14:18:37"}
+{"SessionID":305,"UserID":215,"ProductID":null,"Action":"Login","Timestamp":"2022-10-27 01:56:40"}
+{"SessionID":306,"UserID":216,"ProductID":1446,"Action":"Logout","Timestamp":"2023-03-26 19:47:36"}
+{"SessionID":307,"UserID":217,"ProductID":1259,"Action":"Logout","Timestamp":"2022-11-06 22:17:45"}
+{"SessionID":308,"UserID":null,"ProductID":1686,"Action":"Login","Timestamp":"2023-05-08 11:25:53"}
+{"SessionID":309,"UserID":null,"ProductID":1890,"Action":"Logout","Timestamp":"2022-12-31 18:55:57"}
+{"SessionID":310,"UserID":220,"ProductID":1737,"Action":"Logout","Timestamp":"2023-01-20 07:43:05"}
+{"SessionID":311,"UserID":null,"ProductID":1630,"Action":"Logout","Timestamp":"2022-07-21 17:14:02"}
+{"SessionID":312,"UserID":222,"ProductID":1827,"Action":"Logout","Timestamp":"2022-10-31 01:24:10"}
+{"SessionID":313,"UserID":null,"ProductID":1249,"Action":"Logout","Timestamp":"2022-08-06 13:50:58"}
+{"SessionID":314,"UserID":224,"ProductID":1486,"Action":"Login","Timestamp":"2022-11-29 00:09:01"}
+{"SessionID":315,"UserID":225,"ProductID":1950,"Action":"Login","Timestamp":"2023-03-15 05:02:57"}
+{"SessionID":316,"UserID":226,"ProductID":1220,"Action":"Login","Timestamp":"2022-12-25 14:23:50"}
+{"SessionID":317,"UserID":227,"ProductID":1187,"Action":"Logout","Timestamp":"2022-06-27 02:42:00"}
+{"SessionID":318,"UserID":228,"ProductID":1493,"Action":"Login","Timestamp":"2022-08-06 11:46:50"}
+{"SessionID":319,"UserID":null,"ProductID":1773,"Action":"Login","Timestamp":"2023-02-10 00:13:40"}
+{"SessionID":320,"UserID":230,"ProductID":1199,"Action":"Logout","Timestamp":"2022-08-15 08:47:18"}
+{"SessionID":321,"UserID":231,"ProductID":null,"Action":"Login","Timestamp":null}
+{"SessionID":322,"UserID":232,"ProductID":1632,"Action":"Logout","Timestamp":"2022-10-31 03:15:26"}
+{"SessionID":323,"UserID":233,"ProductID":1160,"Action":"Logout","Timestamp":"2022-06-28 16:35:04"}
+{"SessionID":324,"UserID":234,"ProductID":1746,"Action":"Logout","Timestamp":"2022-10-16 11:16:12"}
+{"SessionID":325,"UserID":235,"ProductID":null,"Action":"Logout","Timestamp":"2022-12-11 22:06:22"}
+{"SessionID":326,"UserID":236,"ProductID":1216,"Action":"Login","Timestamp":"2022-08-21 01:57:05"}
+{"SessionID":327,"UserID":237,"ProductID":null,"Action":"Login","Timestamp":"2022-12-19 07:37:50"}
+{"SessionID":328,"UserID":238,"ProductID":1948,"Action":"Login","Timestamp":"2022-11-11 04:56:22"}
+{"SessionID":329,"UserID":239,"ProductID":1584,"Action":"Login","Timestamp":"2023-05-13 18:24:42"}
+{"SessionID":330,"UserID":240,"ProductID":1173,"Action":"Logout","Timestamp":"2022-08-01 05:08:11"}
+{"SessionID":331,"UserID":241,"ProductID":1406,"Action":"Logout","Timestamp":"2023-05-23 18:06:29"}
+{"SessionID":332,"UserID":242,"ProductID":1073,"Action":"Login","Timestamp":"2022-07-03 02:56:10"}
+{"SessionID":333,"UserID":243,"ProductID":1173,"Action":"Login","Timestamp":null}
+{"SessionID":334,"UserID":244,"ProductID":1597,"Action":"Logout","Timestamp":"2022-12-12 15:15:07"}
+{"SessionID":335,"UserID":245,"ProductID":1950,"Action":"Login","Timestamp":"2022-11-22 20:12:42"}
+{"SessionID":336,"UserID":246,"ProductID":1364,"Action":"Login","Timestamp":"2022-11-14 18:50:54"}
+{"SessionID":337,"UserID":247,"ProductID":1055,"Action":"Logout","Timestamp":"2022-11-30 20:32:12"}
+{"SessionID":338,"UserID":248,"ProductID":1745,"Action":"Logout","Timestamp":"2022-08-19 18:12:43"}
+{"SessionID":339,"UserID":249,"ProductID":1525,"Action":"Login","Timestamp":"2022-12-21 03:38:32"}
+{"SessionID":340,"UserID":250,"ProductID":1051,"Action":"Logout","Timestamp":"2023-04-16 17:58:34"}
+{"SessionID":341,"UserID":null,"ProductID":1313,"Action":"Logout","Timestamp":"2022-09-07 00:58:50"}
+{"SessionID":null,"UserID":252,"ProductID":1305,"Action":null,"Timestamp":"2022-11-20 14:05:46"}
+{"SessionID":343,"UserID":253,"ProductID":1001,"Action":"Login","Timestamp":null}
+{"SessionID":344,"UserID":254,"ProductID":null,"Action":"Logout","Timestamp":"2022-10-06 11:09:37"}
+{"SessionID":345,"UserID":255,"ProductID":1462,"Action":"Logout","Timestamp":"2022-09-09 00:50:38"}
+{"SessionID":346,"UserID":256,"ProductID":null,"Action":"Logout","Timestamp":"2023-05-19 01:15:06"}
+{"SessionID":347,"UserID":257,"ProductID":1677,"Action":"Logout","Timestamp":"2022-09-16 20:58:24"}
+{"SessionID":348,"UserID":258,"ProductID":1512,"Action":"Login","Timestamp":"2023-02-07 21:32:58"}
+{"SessionID":349,"UserID":259,"ProductID":1313,"Action":"Login","Timestamp":"2023-05-03 08:16:25"}
+{"SessionID":350,"UserID":260,"ProductID":1162,"Action":"Logout","Timestamp":"2022-10-22 20:43:30"}
+{"SessionID":351,"UserID":261,"ProductID":1678,"Action":"Logout","Timestamp":"2022-11-02 00:59:38"}
+{"SessionID":352,"UserID":262,"ProductID":null,"Action":"Login","Timestamp":"2022-07-18 18:35:01"}
+{"SessionID":353,"UserID":263,"ProductID":1300,"Action":"Logout","Timestamp":null}
+{"SessionID":354,"UserID":264,"ProductID":1230,"Action":"Logout","Timestamp":"2023-01-31 10:09:54"}
+{"SessionID":355,"UserID":265,"ProductID":1913,"Action":"Logout","Timestamp":"2023-03-10 05:16:41"}
+{"SessionID":356,"UserID":266,"ProductID":1000,"Action":"Logout","Timestamp":null}
+{"SessionID":357,"UserID":267,"ProductID":1953,"Action":"Login","Timestamp":"2023-04-05 07:20:02"}
+{"SessionID":358,"UserID":null,"ProductID":1300,"Action":"Logout","Timestamp":"2022-08-25 23:45:49"}
+{"SessionID":359,"UserID":269,"ProductID":1887,"Action":"Logout","Timestamp":"2022-11-10 19:18:16"}
+{"SessionID":360,"UserID":270,"ProductID":1914,"Action":"Logout","Timestamp":null}
+{"SessionID":361,"UserID":null,"ProductID":1377,"Action":"Login","Timestamp":"2023-01-13 16:25:49"}
+{"SessionID":362,"UserID":272,"ProductID":1539,"Action":"Logout","Timestamp":"2022-12-10 01:04:48"}
+{"SessionID":363,"UserID":273,"ProductID":1927,"Action":"Login","Timestamp":null}
+{"SessionID":364,"UserID":274,"ProductID":1592,"Action":"Logout","Timestamp":"2023-01-27 18:53:15"}
+{"SessionID":365,"UserID":null,"ProductID":1203,"Action":"Logout","Timestamp":"2022-10-17 09:17:55"}
+{"SessionID":366,"UserID":null,"ProductID":1125,"Action":"Logout","Timestamp":"2022-10-22 16:22:01"}
+{"SessionID":367,"UserID":null,"ProductID":null,"Action":"Logout","Timestamp":"2022-09-22 09:37:14"}
+{"SessionID":368,"UserID":278,"ProductID":1432,"Action":"Login","Timestamp":"2022-09-28 13:20:42"}
+{"SessionID":369,"UserID":279,"ProductID":1283,"Action":"Login","Timestamp":"2023-03-07 22:57:53"}
+{"SessionID":370,"UserID":280,"ProductID":1094,"Action":"Login","Timestamp":"2022-08-31 12:16:45"}
+{"SessionID":371,"UserID":281,"ProductID":1509,"Action":"Logout","Timestamp":"2023-03-07 14:45:29"}
+{"SessionID":372,"UserID":282,"ProductID":1753,"Action":"Logout","Timestamp":"2023-03-31 03:03:10"}
+{"SessionID":373,"UserID":283,"ProductID":1671,"Action":"Logout","Timestamp":"2023-05-23 05:26:57"}
+{"SessionID":374,"UserID":284,"ProductID":1471,"Action":"Logout","Timestamp":"2022-10-20 15:05:03"}
+{"SessionID":375,"UserID":285,"ProductID":1290,"Action":"Logout","Timestamp":"2022-09-07 15:46:20"}
+{"SessionID":376,"UserID":286,"ProductID":1199,"Action":"Logout","Timestamp":"2023-01-18 12:54:53"}
+{"SessionID":377,"UserID":287,"ProductID":1462,"Action":"Login","Timestamp":"2023-04-04 16:03:54"}
+{"SessionID":378,"UserID":288,"ProductID":1428,"Action":"Login","Timestamp":"2022-12-20 11:38:44"}
+{"SessionID":379,"UserID":289,"ProductID":1615,"Action":"Logout","Timestamp":"2022-07-24 21:39:40"}
+{"SessionID":380,"UserID":290,"ProductID":1830,"Action":"Login","Timestamp":"2023-01-21 03:21:22"}
+{"SessionID":381,"UserID":null,"ProductID":1666,"Action":"Login","Timestamp":"2023-05-09 14:22:23"}
+{"SessionID":382,"UserID":292,"ProductID":1251,"Action":"Login","Timestamp":"2022-06-23 10:20:31"}
+{"SessionID":383,"UserID":null,"ProductID":1393,"Action":"Logout","Timestamp":null}
+{"SessionID":384,"UserID":294,"ProductID":1903,"Action":"Login","Timestamp":"2022-11-13 15:36:36"}
+{"SessionID":385,"UserID":295,"ProductID":1128,"Action":"Logout","Timestamp":"2022-08-06 06:49:07"}
+{"SessionID":386,"UserID":296,"ProductID":1240,"Action":"Logout","Timestamp":null}
+{"SessionID":387,"UserID":297,"ProductID":1118,"Action":"Login","Timestamp":"2023-01-17 13:42:11"}
+{"SessionID":null,"UserID":298,"ProductID":1061,"Action":null,"Timestamp":"2023-02-04 10:15:03"}
+{"SessionID":389,"UserID":null,"ProductID":1618,"Action":"Logout","Timestamp":null}
+{"SessionID":390,"UserID":300,"ProductID":1647,"Action":"Login","Timestamp":"2022-12-29 11:05:50"}
+{"SessionID":391,"UserID":301,"ProductID":1495,"Action":"Logout","Timestamp":"2022-08-22 03:38:46"}
+{"SessionID":392,"UserID":302,"ProductID":1018,"Action":"Logout","Timestamp":"2022-09-05 07:42:32"}
+{"SessionID":393,"UserID":303,"ProductID":1825,"Action":"Logout","Timestamp":"2022-12-24 13:49:38"}
+{"SessionID":394,"UserID":304,"ProductID":1434,"Action":"Logout","Timestamp":"2023-02-23 04:26:13"}
+{"SessionID":395,"UserID":305,"ProductID":1510,"Action":"Logout","Timestamp":null}
+{"SessionID":396,"UserID":null,"ProductID":1783,"Action":"Login","Timestamp":"2023-03-10 21:53:08"}
+{"SessionID":397,"UserID":307,"ProductID":1555,"Action":"Logout","Timestamp":"2022-12-08 16:24:56"}
+{"SessionID":398,"UserID":308,"ProductID":1979,"Action":"Login","Timestamp":"2022-08-02 03:30:45"}
+{"SessionID":null,"UserID":309,"ProductID":1407,"Action":null,"Timestamp":"2022-06-13 09:59:48"}
+{"SessionID":400,"UserID":310,"ProductID":1840,"Action":"Logout","Timestamp":null}
+{"SessionID":401,"UserID":311,"ProductID":1913,"Action":"Login","Timestamp":null}
+{"SessionID":402,"UserID":312,"ProductID":1574,"Action":"Logout","Timestamp":"2023-01-13 20:48:31"}
+{"SessionID":null,"UserID":313,"ProductID":1792,"Action":null,"Timestamp":null}
+{"SessionID":404,"UserID":314,"ProductID":null,"Action":"Logout","Timestamp":"2022-06-17 21:56:09"}
+{"SessionID":405,"UserID":null,"ProductID":1442,"Action":"Login","Timestamp":"2022-12-08 16:55:25"}
+{"SessionID":406,"UserID":316,"ProductID":1275,"Action":"Login","Timestamp":"2022-10-02 11:02:52"}
+{"SessionID":407,"UserID":317,"ProductID":1455,"Action":"Logout","Timestamp":"2023-02-17 21:50:11"}
+{"SessionID":408,"UserID":318,"ProductID":1886,"Action":"Logout","Timestamp":"2022-12-31 03:47:15"}
+{"SessionID":409,"UserID":null,"ProductID":1761,"Action":"Logout","Timestamp":"2022-08-30 10:34:57"}
+{"SessionID":410,"UserID":320,"ProductID":1716,"Action":"Login","Timestamp":"2022-05-25 13:04:20"}
+{"SessionID":411,"UserID":321,"ProductID":1304,"Action":"Logout","Timestamp":"2023-01-24 12:23:53"}
+{"SessionID":null,"UserID":322,"ProductID":1591,"Action":null,"Timestamp":"2022-10-12 07:01:01"}
+{"SessionID":413,"UserID":323,"ProductID":1590,"Action":"Logout","Timestamp":"2022-07-20 22:45:10"}
+{"SessionID":414,"UserID":324,"ProductID":1787,"Action":"Logout","Timestamp":null}
+{"SessionID":415,"UserID":325,"ProductID":1030,"Action":"Login","Timestamp":null}
+{"SessionID":416,"UserID":326,"ProductID":1999,"Action":"Logout","Timestamp":"2023-01-03 06:06:55"}
+{"SessionID":417,"UserID":327,"ProductID":null,"Action":"Logout","Timestamp":"2022-08-02 17:14:40"}
+{"SessionID":418,"UserID":328,"ProductID":1588,"Action":"Logout","Timestamp":"2022-07-08 10:21:44"}
+{"SessionID":419,"UserID":329,"ProductID":1479,"Action":"Logout","Timestamp":"2022-09-16 12:00:58"}
+{"SessionID":420,"UserID":330,"ProductID":1508,"Action":"Logout","Timestamp":null}
+{"SessionID":421,"UserID":null,"ProductID":1060,"Action":"Logout","Timestamp":"2022-08-23 06:18:25"}
+{"SessionID":422,"UserID":332,"ProductID":1537,"Action":"Logout","Timestamp":null}
+{"SessionID":423,"UserID":333,"ProductID":1720,"Action":"Logout","Timestamp":"2022-05-28 13:58:43"}
+{"SessionID":null,"UserID":334,"ProductID":1645,"Action":null,"Timestamp":"2022-05-28 02:04:22"}
+{"SessionID":425,"UserID":null,"ProductID":1007,"Action":"Logout","Timestamp":"2022-10-26 21:20:10"}
+{"SessionID":426,"UserID":336,"ProductID":null,"Action":"Logout","Timestamp":"2022-12-16 11:29:33"}
+{"SessionID":null,"UserID":null,"ProductID":1361,"Action":null,"Timestamp":"2022-12-09 01:03:52"}
+{"SessionID":428,"UserID":338,"ProductID":1848,"Action":"Login","Timestamp":"2022-06-20 15:33:08"}
+{"SessionID":429,"UserID":null,"ProductID":1128,"Action":"Logout","Timestamp":"2023-04-25 02:17:38"}
+{"SessionID":430,"UserID":340,"ProductID":1348,"Action":"Logout","Timestamp":"2023-03-16 20:17:27"}
+{"SessionID":431,"UserID":341,"ProductID":1721,"Action":"Logout","Timestamp":"2022-07-29 06:40:09"}
+{"SessionID":432,"UserID":null,"ProductID":1456,"Action":"Login","Timestamp":null}
+{"SessionID":433,"UserID":343,"ProductID":1232,"Action":"Logout","Timestamp":"2022-11-14 18:47:23"}
+{"SessionID":434,"UserID":344,"ProductID":1348,"Action":"Logout","Timestamp":"2022-07-31 05:11:43"}
+{"SessionID":435,"UserID":345,"ProductID":1665,"Action":"Logout","Timestamp":"2023-04-03 21:07:32"}
+{"SessionID":436,"UserID":346,"ProductID":1048,"Action":"Login","Timestamp":"2023-02-06 04:41:59"}
+{"SessionID":437,"UserID":347,"ProductID":1093,"Action":"Logout","Timestamp":null}
+{"SessionID":438,"UserID":348,"ProductID":null,"Action":"Login","Timestamp":"2022-08-30 21:14:58"}
+{"SessionID":439,"UserID":null,"ProductID":1992,"Action":"Logout","Timestamp":"2023-01-18 17:06:13"}
+{"SessionID":440,"UserID":350,"ProductID":1287,"Action":"Login","Timestamp":"2022-07-03 02:07:55"}
+{"SessionID":441,"UserID":351,"ProductID":1124,"Action":"Login","Timestamp":null}
+{"SessionID":442,"UserID":352,"ProductID":1397,"Action":"Logout","Timestamp":"2022-08-30 07:33:58"}
+{"SessionID":443,"UserID":353,"ProductID":1651,"Action":"Login","Timestamp":"2023-03-25 15:48:19"}
+{"SessionID":444,"UserID":354,"ProductID":1060,"Action":"Logout","Timestamp":"2022-08-03 06:47:17"}
+{"SessionID":445,"UserID":355,"ProductID":1993,"Action":"Logout","Timestamp":"2023-05-05 22:09:01"}
+{"SessionID":446,"UserID":356,"ProductID":1907,"Action":"Logout","Timestamp":"2022-10-21 00:16:10"}
+{"SessionID":447,"UserID":357,"ProductID":1771,"Action":"Logout","Timestamp":"2022-12-02 18:37:49"}
+{"SessionID":448,"UserID":358,"ProductID":1403,"Action":"Logout","Timestamp":"2022-12-18 09:28:36"}
+{"SessionID":449,"UserID":359,"ProductID":null,"Action":"Login","Timestamp":"2023-04-14 08:46:29"}
+{"SessionID":450,"UserID":360,"ProductID":1506,"Action":"Login","Timestamp":"2022-06-16 02:44:31"}
+{"SessionID":451,"UserID":361,"ProductID":1191,"Action":"Login","Timestamp":"2023-04-16 06:39:33"}
+{"SessionID":452,"UserID":362,"ProductID":null,"Action":"Login","Timestamp":"2022-05-29 02:52:33"}
+{"SessionID":453,"UserID":363,"ProductID":1355,"Action":"Login","Timestamp":"2022-08-25 21:22:35"}
+{"SessionID":454,"UserID":364,"ProductID":1670,"Action":"Login","Timestamp":"2022-06-17 14:10:34"}
+{"SessionID":455,"UserID":365,"ProductID":1991,"Action":"Login","Timestamp":"2023-02-05 17:27:52"}
+{"SessionID":456,"UserID":366,"ProductID":1194,"Action":"Logout","Timestamp":"2022-10-05 04:27:49"}
+{"SessionID":457,"UserID":367,"ProductID":1195,"Action":"Login","Timestamp":"2022-08-11 23:18:47"}
+{"SessionID":458,"UserID":368,"ProductID":1349,"Action":"Login","Timestamp":"2023-03-01 06:34:44"}
+{"SessionID":459,"UserID":369,"ProductID":1617,"Action":"Logout","Timestamp":"2022-12-20 15:40:53"}
+{"SessionID":460,"UserID":370,"ProductID":1630,"Action":"Login","Timestamp":"2022-06-13 15:25:52"}
+{"SessionID":461,"UserID":371,"ProductID":1056,"Action":"Logout","Timestamp":"2023-03-23 04:26:33"}
+{"SessionID":462,"UserID":372,"ProductID":1997,"Action":"Login","Timestamp":"2022-08-28 17:08:25"}
+{"SessionID":463,"UserID":373,"ProductID":1863,"Action":"Login","Timestamp":"2022-11-22 10:12:17"}
+{"SessionID":464,"UserID":374,"ProductID":1356,"Action":"Login","Timestamp":"2023-03-27 04:37:55"}
+{"SessionID":465,"UserID":375,"ProductID":1867,"Action":"Login","Timestamp":null}
+{"SessionID":null,"UserID":376,"ProductID":1612,"Action":null,"Timestamp":"2023-01-08 12:48:54"}
+{"SessionID":467,"UserID":377,"ProductID":1860,"Action":"Logout","Timestamp":"2023-02-25 06:01:18"}
+{"SessionID":468,"UserID":378,"ProductID":1671,"Action":"Logout","Timestamp":"2023-01-30 21:30:52"}
+{"SessionID":469,"UserID":379,"ProductID":1069,"Action":"Login","Timestamp":"2022-06-06 13:11:26"}
+{"SessionID":470,"UserID":380,"ProductID":1333,"Action":"Login","Timestamp":"2022-07-29 12:37:52"}
+{"SessionID":471,"UserID":381,"ProductID":1821,"Action":"Login","Timestamp":null}
+{"SessionID":472,"UserID":382,"ProductID":1169,"Action":"Logout","Timestamp":"2022-12-28 11:40:37"}
+{"SessionID":473,"UserID":383,"ProductID":1791,"Action":"Logout","Timestamp":"2023-02-03 19:20:06"}
+{"SessionID":474,"UserID":384,"ProductID":1373,"Action":"Logout","Timestamp":"2023-03-07 11:05:26"}
+{"SessionID":475,"UserID":385,"ProductID":1005,"Action":"Logout","Timestamp":"2022-08-25 04:56:17"}
+{"SessionID":476,"UserID":386,"ProductID":1621,"Action":"Login","Timestamp":"2023-04-30 02:22:41"}
+{"SessionID":477,"UserID":387,"ProductID":1429,"Action":"Logout","Timestamp":"2023-03-09 18:14:30"}
+{"SessionID":478,"UserID":null,"ProductID":1666,"Action":"Logout","Timestamp":"2022-08-09 10:59:41"}
+{"SessionID":479,"UserID":389,"ProductID":1446,"Action":"Login","Timestamp":"2022-09-11 07:23:20"}
+{"SessionID":null,"UserID":390,"ProductID":1076,"Action":null,"Timestamp":"2022-12-23 15:41:35"}
+{"SessionID":481,"UserID":391,"ProductID":1678,"Action":"Login","Timestamp":"2022-11-06 02:13:52"}
+{"SessionID":482,"UserID":392,"ProductID":1908,"Action":"Logout","Timestamp":"2022-07-15 09:49:43"}
+{"SessionID":483,"UserID":393,"ProductID":1880,"Action":"Logout","Timestamp":"2022-08-13 16:26:28"}
+{"SessionID":484,"UserID":null,"ProductID":1009,"Action":"Logout","Timestamp":"2022-06-09 21:31:59"}
+{"SessionID":485,"UserID":null,"ProductID":1450,"Action":"Login","Timestamp":"2022-12-31 01:54:24"}
+{"SessionID":486,"UserID":396,"ProductID":1519,"Action":"Logout","Timestamp":"2022-06-27 13:53:24"}
+{"SessionID":487,"UserID":397,"ProductID":1739,"Action":"Logout","Timestamp":"2022-06-22 15:56:57"}
+{"SessionID":null,"UserID":398,"ProductID":1338,"Action":null,"Timestamp":"2022-08-12 10:23:01"}
+{"SessionID":489,"UserID":399,"ProductID":null,"Action":"Logout","Timestamp":"2022-11-21 12:00:23"}
+{"SessionID":490,"UserID":400,"ProductID":null,"Action":"Logout","Timestamp":"2023-05-05 02:20:47"}
+{"SessionID":491,"UserID":401,"ProductID":1349,"Action":"Login","Timestamp":"2022-12-17 08:26:45"}
+{"SessionID":492,"UserID":402,"ProductID":1422,"Action":"Logout","Timestamp":"2022-10-25 08:45:12"}
+{"SessionID":493,"UserID":403,"ProductID":1385,"Action":"Login","Timestamp":null}
+{"SessionID":494,"UserID":404,"ProductID":1727,"Action":"Login","Timestamp":"2022-09-05 12:12:50"}
+{"SessionID":495,"UserID":405,"ProductID":1662,"Action":"Login","Timestamp":"2023-02-05 08:17:36"}
+{"SessionID":496,"UserID":406,"ProductID":1466,"Action":"Login","Timestamp":"2023-05-04 09:17:53"}
+{"SessionID":null,"UserID":407,"ProductID":1549,"Action":null,"Timestamp":"2022-10-20 23:37:36"}
+{"SessionID":498,"UserID":null,"ProductID":1168,"Action":"Logout","Timestamp":"2022-08-14 02:51:21"}
+{"SessionID":499,"UserID":409,"ProductID":1449,"Action":"Login","Timestamp":"2022-09-24 03:28:18"}
+{"SessionID":500,"UserID":410,"ProductID":1202,"Action":"Login","Timestamp":"2023-01-18 18:35:36"}
+{"SessionID":501,"UserID":411,"ProductID":1579,"Action":"Login","Timestamp":"2023-02-08 08:05:11"}
+{"SessionID":502,"UserID":412,"ProductID":1291,"Action":"Login","Timestamp":null}
+{"SessionID":503,"UserID":413,"ProductID":1962,"Action":"Login","Timestamp":"2022-06-30 17:50:12"}
+{"SessionID":504,"UserID":null,"ProductID":1534,"Action":"Login","Timestamp":"2022-11-08 17:30:47"}
+{"SessionID":505,"UserID":415,"ProductID":1496,"Action":"Login","Timestamp":"2022-12-15 12:06:35"}
+{"SessionID":506,"UserID":416,"ProductID":1843,"Action":"Logout","Timestamp":"2023-01-21 10:19:19"}
+{"SessionID":507,"UserID":417,"ProductID":1788,"Action":"Login","Timestamp":"2022-11-07 13:10:38"}
+{"SessionID":508,"UserID":418,"ProductID":1549,"Action":"Login","Timestamp":"2022-09-03 13:21:10"}
+{"SessionID":509,"UserID":419,"ProductID":1016,"Action":"Login","Timestamp":"2022-09-02 11:48:00"}
+{"SessionID":510,"UserID":420,"ProductID":1649,"Action":"Logout","Timestamp":"2023-02-09 16:06:01"}
+{"SessionID":511,"UserID":421,"ProductID":null,"Action":"Logout","Timestamp":"2022-08-08 08:16:14"}
+{"SessionID":512,"UserID":422,"ProductID":1205,"Action":"Login","Timestamp":"2023-05-01 20:30:28"}
+{"SessionID":513,"UserID":423,"ProductID":1308,"Action":"Login","Timestamp":"2023-04-27 11:46:22"}
+{"SessionID":514,"UserID":424,"ProductID":1099,"Action":"Login","Timestamp":"2023-02-20 17:01:32"}
+{"SessionID":515,"UserID":425,"ProductID":1245,"Action":"Logout","Timestamp":"2022-08-21 12:42:11"}
+{"SessionID":516,"UserID":426,"ProductID":1534,"Action":"Login","Timestamp":"2022-09-10 04:56:54"}
+{"SessionID":517,"UserID":427,"ProductID":1815,"Action":"Login","Timestamp":"2023-05-11 06:08:25"}
+{"SessionID":518,"UserID":428,"ProductID":1742,"Action":"Login","Timestamp":"2022-06-30 05:41:47"}
+{"SessionID":519,"UserID":429,"ProductID":1326,"Action":"Login","Timestamp":"2023-03-18 11:17:00"}
+{"SessionID":520,"UserID":430,"ProductID":1764,"Action":"Logout","Timestamp":"2023-03-15 19:26:17"}
+{"SessionID":521,"UserID":431,"ProductID":1993,"Action":"Logout","Timestamp":"2022-10-05 22:33:14"}
+{"SessionID":522,"UserID":null,"ProductID":1679,"Action":"Logout","Timestamp":"2022-05-26 22:04:40"}
+{"SessionID":523,"UserID":433,"ProductID":1076,"Action":"Login","Timestamp":"2022-06-20 01:36:12"}
+{"SessionID":524,"UserID":434,"ProductID":1753,"Action":"Logout","Timestamp":"2023-03-04 20:16:22"}
+{"SessionID":525,"UserID":435,"ProductID":1650,"Action":"Logout","Timestamp":"2022-09-08 09:53:07"}
+{"SessionID":526,"UserID":436,"ProductID":1205,"Action":"Login","Timestamp":"2023-05-06 01:47:45"}
+{"SessionID":527,"UserID":null,"ProductID":1615,"Action":"Login","Timestamp":"2022-06-01 13:36:09"}
+{"SessionID":528,"UserID":438,"ProductID":1524,"Action":"Logout","Timestamp":"2022-12-23 12:35:16"}
+{"SessionID":529,"UserID":null,"ProductID":1574,"Action":"Logout","Timestamp":"2023-04-01 15:43:46"}
+{"SessionID":530,"UserID":440,"ProductID":1252,"Action":"Logout","Timestamp":"2022-08-26 09:37:21"}
+{"SessionID":531,"UserID":441,"ProductID":1007,"Action":"Login","Timestamp":"2022-10-17 13:00:42"}
+{"SessionID":532,"UserID":442,"ProductID":1546,"Action":"Logout","Timestamp":"2022-07-21 17:48:23"}
+{"SessionID":533,"UserID":443,"ProductID":1084,"Action":"Login","Timestamp":null}
+{"SessionID":534,"UserID":444,"ProductID":1292,"Action":"Login","Timestamp":"2022-11-02 17:25:55"}
+{"SessionID":535,"UserID":445,"ProductID":1955,"Action":"Login","Timestamp":"2022-07-17 21:12:53"}
+{"SessionID":536,"UserID":446,"ProductID":1786,"Action":"Logout","Timestamp":"2022-10-23 11:27:15"}
+{"SessionID":537,"UserID":447,"ProductID":1011,"Action":"Logout","Timestamp":"2022-09-17 11:15:08"}
+{"SessionID":538,"UserID":448,"ProductID":null,"Action":"Login","Timestamp":"2023-01-21 20:22:32"}
+{"SessionID":539,"UserID":449,"ProductID":1573,"Action":"Logout","Timestamp":null}
+{"SessionID":540,"UserID":450,"ProductID":1258,"Action":"Logout","Timestamp":"2022-11-11 12:59:39"}
+{"SessionID":541,"UserID":451,"ProductID":1927,"Action":"Logout","Timestamp":null}
+{"SessionID":542,"UserID":452,"ProductID":1784,"Action":"Login","Timestamp":"2022-10-18 04:28:20"}
+{"SessionID":543,"UserID":453,"ProductID":1073,"Action":"Login","Timestamp":"2023-02-23 03:23:34"}
+{"SessionID":544,"UserID":454,"ProductID":1832,"Action":"Logout","Timestamp":"2022-12-20 06:45:18"}
+{"SessionID":545,"UserID":455,"ProductID":1992,"Action":"Login","Timestamp":"2022-07-12 09:32:02"}
+{"SessionID":546,"UserID":456,"ProductID":1829,"Action":"Logout","Timestamp":"2022-09-10 18:11:02"}
+{"SessionID":547,"UserID":null,"ProductID":1666,"Action":"Logout","Timestamp":"2023-04-20 21:35:35"}
+{"SessionID":548,"UserID":458,"ProductID":1454,"Action":"Login","Timestamp":"2022-10-16 06:50:12"}
+{"SessionID":549,"UserID":459,"ProductID":1500,"Action":"Logout","Timestamp":"2023-03-07 21:36:25"}
+{"SessionID":550,"UserID":460,"ProductID":1814,"Action":"Logout","Timestamp":"2022-09-19 04:00:09"}
+{"SessionID":551,"UserID":461,"ProductID":1374,"Action":"Login","Timestamp":null}
+{"SessionID":552,"UserID":462,"ProductID":1581,"Action":"Login","Timestamp":"2023-02-10 17:30:39"}
+{"SessionID":null,"UserID":463,"ProductID":1025,"Action":null,"Timestamp":null}
+{"SessionID":554,"UserID":464,"ProductID":1730,"Action":"Logout","Timestamp":"2022-12-21 17:09:45"}
+{"SessionID":555,"UserID":null,"ProductID":1284,"Action":"Login","Timestamp":"2023-04-03 00:06:25"}
+{"SessionID":556,"UserID":466,"ProductID":null,"Action":"Logout","Timestamp":"2023-04-28 02:38:22"}
+{"SessionID":557,"UserID":467,"ProductID":1298,"Action":"Login","Timestamp":"2022-08-13 13:37:41"}
+{"SessionID":558,"UserID":468,"ProductID":1231,"Action":"Logout","Timestamp":"2023-03-11 18:01:03"}
+{"SessionID":559,"UserID":469,"ProductID":1737,"Action":"Login","Timestamp":"2022-08-23 01:30:09"}
+{"SessionID":560,"UserID":470,"ProductID":1217,"Action":"Logout","Timestamp":"2022-08-16 02:20:41"}
+{"SessionID":561,"UserID":471,"ProductID":1816,"Action":"Login","Timestamp":"2022-09-13 11:27:21"}
+{"SessionID":562,"UserID":472,"ProductID":1650,"Action":"Login","Timestamp":"2022-12-25 10:21:24"}
+{"SessionID":563,"UserID":473,"ProductID":1927,"Action":"Login","Timestamp":"2023-03-09 07:03:27"}
+{"SessionID":564,"UserID":474,"ProductID":1011,"Action":"Logout","Timestamp":"2022-10-18 03:17:42"}
+{"SessionID":565,"UserID":475,"ProductID":1071,"Action":"Logout","Timestamp":"2022-08-08 02:13:39"}
+{"SessionID":566,"UserID":null,"ProductID":1822,"Action":"Login","Timestamp":"2022-07-14 16:19:21"}
+{"SessionID":567,"UserID":477,"ProductID":1714,"Action":"Login","Timestamp":"2022-08-31 10:03:17"}
+{"SessionID":568,"UserID":null,"ProductID":1548,"Action":"Login","Timestamp":"2023-01-27 13:27:14"}
+{"SessionID":569,"UserID":479,"ProductID":1764,"Action":"Logout","Timestamp":"2023-01-10 00:36:44"}
+{"SessionID":570,"UserID":480,"ProductID":1164,"Action":"Login","Timestamp":"2022-05-25 09:55:57"}
+{"SessionID":571,"UserID":481,"ProductID":1877,"Action":"Logout","Timestamp":"2022-10-17 01:25:32"}
+{"SessionID":572,"UserID":482,"ProductID":1704,"Action":"Logout","Timestamp":"2023-03-03 08:36:18"}
+{"SessionID":573,"UserID":483,"ProductID":1673,"Action":"Logout","Timestamp":"2023-01-11 03:20:12"}
+{"SessionID":574,"UserID":484,"ProductID":1784,"Action":"Logout","Timestamp":"2022-12-06 21:28:45"}
+{"SessionID":575,"UserID":485,"ProductID":1574,"Action":"Login","Timestamp":"2023-01-16 15:23:45"}
+{"SessionID":576,"UserID":486,"ProductID":null,"Action":"Login","Timestamp":"2023-05-02 09:40:36"}
+{"SessionID":577,"UserID":487,"ProductID":1348,"Action":"Login","Timestamp":"2022-07-23 14:14:20"}
+{"SessionID":null,"UserID":488,"ProductID":1993,"Action":null,"Timestamp":"2022-10-24 08:00:45"}
+{"SessionID":579,"UserID":489,"ProductID":1993,"Action":"Login","Timestamp":"2023-01-26 04:32:19"}
+{"SessionID":580,"UserID":490,"ProductID":1890,"Action":"Logout","Timestamp":"2023-01-29 15:06:12"}
+{"SessionID":581,"UserID":null,"ProductID":1993,"Action":"Login","Timestamp":"2022-11-05 11:48:35"}
+{"SessionID":582,"UserID":492,"ProductID":1164,"Action":"Login","Timestamp":"2023-02-21 09:21:54"}
+{"SessionID":583,"UserID":493,"ProductID":1432,"Action":"Logout","Timestamp":"2022-10-05 01:13:53"}
+{"SessionID":584,"UserID":494,"ProductID":1514,"Action":"Logout","Timestamp":"2023-02-14 15:39:10"}
+{"SessionID":585,"UserID":495,"ProductID":1153,"Action":"Login","Timestamp":"2022-09-06 20:36:43"}
+{"SessionID":586,"UserID":496,"ProductID":1214,"Action":"Logout","Timestamp":"2023-01-13 13:04:31"}
+{"SessionID":587,"UserID":497,"ProductID":1469,"Action":"Login","Timestamp":"2023-04-27 16:16:34"}
+{"SessionID":588,"UserID":498,"ProductID":1681,"Action":"Login","Timestamp":null}
+{"SessionID":589,"UserID":499,"ProductID":1835,"Action":"Logout","Timestamp":"2022-08-31 10:25:30"}
+{"SessionID":590,"UserID":500,"ProductID":1722,"Action":"Logout","Timestamp":"2023-02-09 23:11:03"}
+{"SessionID":null,"UserID":501,"ProductID":null,"Action":null,"Timestamp":"2023-03-08 04:08:51"}
+{"SessionID":592,"UserID":502,"ProductID":1411,"Action":"Login","Timestamp":"2022-11-06 10:00:40"}
+{"SessionID":593,"UserID":503,"ProductID":null,"Action":"Logout","Timestamp":"2023-05-12 17:37:47"}
+{"SessionID":594,"UserID":504,"ProductID":1972,"Action":"Login","Timestamp":"2022-12-17 18:58:34"}
+{"SessionID":null,"UserID":505,"ProductID":1061,"Action":null,"Timestamp":"2022-10-08 00:08:19"}
+{"SessionID":596,"UserID":506,"ProductID":1539,"Action":"Login","Timestamp":null}
+{"SessionID":597,"UserID":507,"ProductID":1521,"Action":"Logout","Timestamp":"2022-06-07 23:11:17"}
+{"SessionID":598,"UserID":508,"ProductID":null,"Action":"Login","Timestamp":"2022-12-21 06:14:46"}
+{"SessionID":599,"UserID":509,"ProductID":1260,"Action":"Login","Timestamp":"2022-07-10 11:13:50"}
+{"SessionID":600,"UserID":510,"ProductID":1278,"Action":"Login","Timestamp":"2023-02-19 11:52:32"}
+{"SessionID":601,"UserID":511,"ProductID":1276,"Action":"Login","Timestamp":"2023-01-05 02:41:38"}
+{"SessionID":602,"UserID":512,"ProductID":1205,"Action":"Logout","Timestamp":"2022-12-06 19:54:44"}
+{"SessionID":603,"UserID":513,"ProductID":1620,"Action":"Logout","Timestamp":"2022-09-26 12:17:48"}
+{"SessionID":604,"UserID":514,"ProductID":1622,"Action":"Logout","Timestamp":"2022-06-11 10:37:48"}
+{"SessionID":605,"UserID":515,"ProductID":1513,"Action":"Login","Timestamp":"2023-02-10 17:46:54"}
+{"SessionID":606,"UserID":516,"ProductID":1499,"Action":"Logout","Timestamp":"2022-07-28 12:30:18"}
+{"SessionID":null,"UserID":517,"ProductID":1602,"Action":null,"Timestamp":"2023-03-09 22:11:29"}
+{"SessionID":608,"UserID":518,"ProductID":1252,"Action":"Logout","Timestamp":"2023-05-13 15:10:08"}
+{"SessionID":609,"UserID":519,"ProductID":1258,"Action":"Logout","Timestamp":"2022-08-10 13:47:48"}
+{"SessionID":610,"UserID":520,"ProductID":1932,"Action":"Logout","Timestamp":"2023-02-25 05:15:20"}
+{"SessionID":611,"UserID":521,"ProductID":1040,"Action":"Logout","Timestamp":null}
+{"SessionID":612,"UserID":522,"ProductID":1484,"Action":"Login","Timestamp":null}
+{"SessionID":613,"UserID":523,"ProductID":1657,"Action":"Login","Timestamp":"2023-04-10 12:51:33"}
+{"SessionID":614,"UserID":524,"ProductID":1627,"Action":"Login","Timestamp":"2022-06-22 17:25:10"}
+{"SessionID":615,"UserID":525,"ProductID":1340,"Action":"Logout","Timestamp":"2023-03-31 18:56:37"}
+{"SessionID":616,"UserID":526,"ProductID":1767,"Action":"Login","Timestamp":"2022-07-04 20:06:10"}
+{"SessionID":617,"UserID":527,"ProductID":1070,"Action":"Logout","Timestamp":"2023-05-21 19:32:25"}
+{"SessionID":618,"UserID":528,"ProductID":1446,"Action":"Login","Timestamp":"2022-09-24 02:33:49"}
+{"SessionID":619,"UserID":529,"ProductID":1182,"Action":"Logout","Timestamp":"2022-05-26 11:52:37"}
+{"SessionID":null,"UserID":530,"ProductID":1188,"Action":null,"Timestamp":"2022-07-05 02:57:10"}
+{"SessionID":621,"UserID":531,"ProductID":1297,"Action":"Login","Timestamp":"2022-11-14 04:08:50"}
+{"SessionID":622,"UserID":532,"ProductID":1866,"Action":"Login","Timestamp":"2022-10-23 11:44:12"}
+{"SessionID":623,"UserID":null,"ProductID":null,"Action":"Logout","Timestamp":"2022-06-11 12:58:40"}
+{"SessionID":624,"UserID":534,"ProductID":1627,"Action":"Logout","Timestamp":"2022-07-19 04:35:19"}
+{"SessionID":625,"UserID":535,"ProductID":1520,"Action":"Logout","Timestamp":null}
+{"SessionID":626,"UserID":536,"ProductID":null,"Action":"Logout","Timestamp":"2022-09-23 14:47:42"}
+{"SessionID":627,"UserID":537,"ProductID":1685,"Action":"Login","Timestamp":"2022-06-23 10:47:32"}
+{"SessionID":628,"UserID":538,"ProductID":null,"Action":"Logout","Timestamp":"2022-11-02 04:47:50"}
+{"SessionID":629,"UserID":539,"ProductID":1775,"Action":"Login","Timestamp":"2022-06-12 02:42:40"}
+{"SessionID":630,"UserID":540,"ProductID":1050,"Action":"Logout","Timestamp":"2023-05-03 11:13:16"}
+{"SessionID":631,"UserID":null,"ProductID":1352,"Action":"Login","Timestamp":"2022-10-22 17:46:44"}
+{"SessionID":632,"UserID":542,"ProductID":1673,"Action":"Login","Timestamp":"2023-03-02 01:24:22"}
+{"SessionID":633,"UserID":543,"ProductID":1689,"Action":"Logout","Timestamp":"2023-02-12 18:16:46"}
+{"SessionID":634,"UserID":544,"ProductID":1548,"Action":"Login","Timestamp":"2023-03-13 10:33:00"}
+{"SessionID":635,"UserID":null,"ProductID":1101,"Action":"Login","Timestamp":"2022-10-16 23:08:14"}
+{"SessionID":636,"UserID":546,"ProductID":1560,"Action":"Logout","Timestamp":"2022-08-10 00:01:56"}
+{"SessionID":637,"UserID":547,"ProductID":1247,"Action":"Logout","Timestamp":"2022-09-25 07:28:20"}
+{"SessionID":638,"UserID":548,"ProductID":1616,"Action":"Logout","Timestamp":"2022-05-26 02:55:10"}
+{"SessionID":639,"UserID":549,"ProductID":1223,"Action":"Login","Timestamp":"2023-04-24 14:55:43"}
+{"SessionID":640,"UserID":550,"ProductID":1597,"Action":"Logout","Timestamp":"2022-06-23 02:11:29"}
+{"SessionID":641,"UserID":551,"ProductID":1569,"Action":"Login","Timestamp":"2022-08-20 03:41:38"}
+{"SessionID":642,"UserID":552,"ProductID":1014,"Action":"Login","Timestamp":"2022-10-14 04:55:42"}
+{"SessionID":643,"UserID":553,"ProductID":null,"Action":"Login","Timestamp":"2022-11-01 20:29:51"}
+{"SessionID":644,"UserID":554,"ProductID":1867,"Action":"Logout","Timestamp":"2023-04-04 06:39:35"}
+{"SessionID":645,"UserID":555,"ProductID":1293,"Action":"Logout","Timestamp":"2022-12-20 15:57:52"}
+{"SessionID":646,"UserID":556,"ProductID":1679,"Action":"Login","Timestamp":"2022-06-01 13:04:32"}
+{"SessionID":647,"UserID":557,"ProductID":1993,"Action":"Login","Timestamp":"2023-01-02 00:03:04"}
+{"SessionID":648,"UserID":558,"ProductID":1218,"Action":"Logout","Timestamp":"2022-09-24 08:01:39"}
+{"SessionID":649,"UserID":559,"ProductID":1909,"Action":"Logout","Timestamp":"2023-01-04 11:44:51"}
+{"SessionID":650,"UserID":560,"ProductID":1792,"Action":"Logout","Timestamp":"2022-09-20 20:28:35"}
+{"SessionID":651,"UserID":561,"ProductID":1110,"Action":"Logout","Timestamp":"2022-12-15 06:53:26"}
+{"SessionID":652,"UserID":562,"ProductID":1636,"Action":"Login","Timestamp":"2022-09-04 17:10:49"}
+{"SessionID":653,"UserID":563,"ProductID":1063,"Action":"Logout","Timestamp":null}
+{"SessionID":654,"UserID":564,"ProductID":1533,"Action":"Login","Timestamp":"2022-08-02 13:52:12"}
+{"SessionID":655,"UserID":565,"ProductID":1578,"Action":"Login","Timestamp":"2022-09-07 22:49:17"}
+{"SessionID":656,"UserID":566,"ProductID":null,"Action":"Login","Timestamp":"2022-08-24 14:43:52"}
+{"SessionID":657,"UserID":567,"ProductID":1110,"Action":"Login","Timestamp":"2022-05-28 05:55:51"}
+{"SessionID":658,"UserID":null,"ProductID":1219,"Action":"Login","Timestamp":null}
+{"SessionID":659,"UserID":569,"ProductID":1837,"Action":"Login","Timestamp":null}
+{"SessionID":660,"UserID":570,"ProductID":1009,"Action":"Logout","Timestamp":"2023-02-14 06:44:40"}
+{"SessionID":661,"UserID":571,"ProductID":1726,"Action":"Login","Timestamp":"2022-09-11 21:40:53"}
+{"SessionID":null,"UserID":572,"ProductID":1393,"Action":null,"Timestamp":"2022-06-06 18:25:56"}
+{"SessionID":663,"UserID":573,"ProductID":1339,"Action":"Logout","Timestamp":"2022-11-24 21:34:50"}
+{"SessionID":664,"UserID":574,"ProductID":1103,"Action":"Logout","Timestamp":"2022-06-30 13:58:50"}
+{"SessionID":665,"UserID":null,"ProductID":1974,"Action":"Login","Timestamp":null}
+{"SessionID":666,"UserID":576,"ProductID":1370,"Action":"Logout","Timestamp":null}
+{"SessionID":667,"UserID":577,"ProductID":1776,"Action":"Login","Timestamp":"2022-10-15 23:25:48"}
+{"SessionID":668,"UserID":578,"ProductID":1333,"Action":"Logout","Timestamp":null}
+{"SessionID":669,"UserID":579,"ProductID":1091,"Action":"Logout","Timestamp":"2023-04-04 11:36:26"}
+{"SessionID":670,"UserID":580,"ProductID":1256,"Action":"Logout","Timestamp":"2023-03-25 17:50:40"}
+{"SessionID":671,"UserID":581,"ProductID":1768,"Action":"Logout","Timestamp":"2022-11-22 13:43:08"}
+{"SessionID":672,"UserID":582,"ProductID":1616,"Action":"Login","Timestamp":"2023-05-01 20:02:16"}
+{"SessionID":673,"UserID":583,"ProductID":1195,"Action":"Login","Timestamp":"2022-12-29 09:01:26"}
+{"SessionID":674,"UserID":584,"ProductID":1012,"Action":"Logout","Timestamp":"2022-05-25 17:29:03"}
+{"SessionID":675,"UserID":585,"ProductID":1019,"Action":"Login","Timestamp":"2022-06-05 02:11:08"}
+{"SessionID":676,"UserID":586,"ProductID":1145,"Action":"Logout","Timestamp":"2022-09-04 21:06:53"}
+{"SessionID":677,"UserID":587,"ProductID":1558,"Action":"Login","Timestamp":"2023-04-01 23:10:05"}
+{"SessionID":678,"UserID":588,"ProductID":1552,"Action":"Logout","Timestamp":"2022-11-11 09:34:20"}
+{"SessionID":679,"UserID":589,"ProductID":1303,"Action":"Logout","Timestamp":"2022-05-24 01:57:25"}
+{"SessionID":680,"UserID":590,"ProductID":1878,"Action":"Logout","Timestamp":"2022-12-06 04:02:38"}
+{"SessionID":681,"UserID":null,"ProductID":1923,"Action":"Login","Timestamp":"2022-07-04 14:34:51"}
+{"SessionID":682,"UserID":592,"ProductID":null,"Action":"Login","Timestamp":"2022-07-12 23:20:36"}
+{"SessionID":683,"UserID":593,"ProductID":1996,"Action":"Login","Timestamp":"2022-05-31 02:08:26"}
+{"SessionID":684,"UserID":594,"ProductID":1903,"Action":"Logout","Timestamp":"2022-10-12 01:47:34"}
+{"SessionID":685,"UserID":595,"ProductID":1711,"Action":"Login","Timestamp":"2022-10-10 02:53:19"}
+{"SessionID":686,"UserID":596,"ProductID":null,"Action":"Login","Timestamp":"2022-06-14 09:13:22"}
+{"SessionID":687,"UserID":597,"ProductID":1318,"Action":"Login","Timestamp":"2022-10-09 10:02:26"}
+{"SessionID":688,"UserID":598,"ProductID":1507,"Action":"Logout","Timestamp":null}
+{"SessionID":689,"UserID":599,"ProductID":1128,"Action":"Login","Timestamp":"2022-08-04 06:05:04"}
+{"SessionID":690,"UserID":600,"ProductID":1416,"Action":"Login","Timestamp":"2023-02-04 09:04:11"}
+{"SessionID":691,"UserID":601,"ProductID":1112,"Action":"Logout","Timestamp":null}
+{"SessionID":692,"UserID":602,"ProductID":1838,"Action":"Login","Timestamp":"2023-05-16 22:59:57"}
+{"SessionID":693,"UserID":603,"ProductID":1310,"Action":"Logout","Timestamp":"2022-09-07 19:38:19"}
+{"SessionID":694,"UserID":604,"ProductID":1934,"Action":"Logout","Timestamp":"2022-07-15 18:02:40"}
+{"SessionID":695,"UserID":605,"ProductID":1782,"Action":"Login","Timestamp":"2023-05-21 22:21:32"}
+{"SessionID":696,"UserID":606,"ProductID":1527,"Action":"Logout","Timestamp":"2022-09-19 12:23:51"}
+{"SessionID":697,"UserID":607,"ProductID":1029,"Action":"Login","Timestamp":"2022-10-01 21:53:28"}
+{"SessionID":698,"UserID":608,"ProductID":1211,"Action":"Login","Timestamp":"2022-09-12 15:25:32"}
+{"SessionID":699,"UserID":609,"ProductID":1938,"Action":"Logout","Timestamp":"2022-08-06 23:41:35"}
+{"SessionID":700,"UserID":610,"ProductID":1355,"Action":"Login","Timestamp":"2023-02-17 05:50:32"}
+{"SessionID":701,"UserID":null,"ProductID":1383,"Action":"Login","Timestamp":"2022-12-13 11:45:51"}
+{"SessionID":702,"UserID":612,"ProductID":1223,"Action":"Login","Timestamp":"2022-06-07 21:23:21"}
+{"SessionID":703,"UserID":613,"ProductID":1029,"Action":"Logout","Timestamp":"2022-05-29 13:59:46"}
+{"SessionID":704,"UserID":614,"ProductID":1495,"Action":"Logout","Timestamp":"2022-11-03 09:49:48"}
+{"SessionID":705,"UserID":615,"ProductID":1716,"Action":"Login","Timestamp":"2022-10-17 04:28:42"}
+{"SessionID":706,"UserID":616,"ProductID":1902,"Action":"Logout","Timestamp":"2022-10-15 00:15:29"}
+{"SessionID":707,"UserID":617,"ProductID":1954,"Action":"Logout","Timestamp":"2022-12-30 18:22:32"}
+{"SessionID":708,"UserID":618,"ProductID":1204,"Action":"Login","Timestamp":"2022-11-24 09:18:20"}
+{"SessionID":709,"UserID":null,"ProductID":1379,"Action":"Logout","Timestamp":"2023-02-09 16:08:11"}
+{"SessionID":710,"UserID":620,"ProductID":1534,"Action":"Logout","Timestamp":null}
+{"SessionID":711,"UserID":621,"ProductID":1538,"Action":"Logout","Timestamp":"2022-10-11 01:14:14"}
+{"SessionID":712,"UserID":622,"ProductID":1199,"Action":"Logout","Timestamp":"2022-10-04 20:45:08"}
+{"SessionID":713,"UserID":623,"ProductID":1398,"Action":"Logout","Timestamp":null}
+{"SessionID":714,"UserID":624,"ProductID":1592,"Action":"Login","Timestamp":"2022-11-04 04:08:42"}
+{"SessionID":null,"UserID":625,"ProductID":1659,"Action":null,"Timestamp":"2022-11-03 03:38:25"}
+{"SessionID":null,"UserID":626,"ProductID":1278,"Action":null,"Timestamp":"2023-05-22 22:27:38"}
+{"SessionID":717,"UserID":627,"ProductID":1484,"Action":"Logout","Timestamp":null}
+{"SessionID":718,"UserID":628,"ProductID":1368,"Action":"Login","Timestamp":null}
+{"SessionID":719,"UserID":629,"ProductID":1942,"Action":"Login","Timestamp":"2023-03-23 21:01:57"}
+{"SessionID":null,"UserID":630,"ProductID":1895,"Action":null,"Timestamp":"2022-10-17 11:21:28"}
+{"SessionID":721,"UserID":631,"ProductID":1970,"Action":"Login","Timestamp":"2022-08-11 20:45:46"}
+{"SessionID":722,"UserID":null,"ProductID":1466,"Action":"Logout","Timestamp":"2022-07-11 00:19:01"}
+{"SessionID":723,"UserID":633,"ProductID":1791,"Action":"Login","Timestamp":"2022-10-27 20:17:44"}
+{"SessionID":724,"UserID":634,"ProductID":1659,"Action":"Logout","Timestamp":null}
+{"SessionID":725,"UserID":635,"ProductID":1663,"Action":"Login","Timestamp":"2023-05-06 19:20:56"}
+{"SessionID":726,"UserID":636,"ProductID":null,"Action":"Login","Timestamp":"2022-12-05 06:09:58"}
+{"SessionID":727,"UserID":null,"ProductID":1432,"Action":"Logout","Timestamp":"2022-09-29 12:29:46"}
+{"SessionID":728,"UserID":638,"ProductID":1427,"Action":"Logout","Timestamp":"2023-04-05 11:34:44"}
+{"SessionID":729,"UserID":639,"ProductID":1396,"Action":"Logout","Timestamp":"2023-04-02 22:26:21"}
+{"SessionID":730,"UserID":640,"ProductID":1494,"Action":"Login","Timestamp":"2022-09-28 18:05:10"}
+{"SessionID":731,"UserID":641,"ProductID":1299,"Action":"Login","Timestamp":"2023-05-17 14:00:05"}
+{"SessionID":732,"UserID":642,"ProductID":1652,"Action":"Login","Timestamp":null}
+{"SessionID":733,"UserID":643,"ProductID":1703,"Action":"Login","Timestamp":null}
+{"SessionID":734,"UserID":644,"ProductID":1273,"Action":"Logout","Timestamp":"2023-04-19 15:48:47"}
+{"SessionID":735,"UserID":645,"ProductID":1011,"Action":"Login","Timestamp":null}
+{"SessionID":736,"UserID":646,"ProductID":1101,"Action":"Logout","Timestamp":"2023-04-26 15:41:49"}
+{"SessionID":737,"UserID":647,"ProductID":1877,"Action":"Login","Timestamp":"2023-01-23 05:21:49"}
+{"SessionID":738,"UserID":648,"ProductID":1601,"Action":"Login","Timestamp":"2022-09-30 08:26:04"}
+{"SessionID":739,"UserID":649,"ProductID":1678,"Action":"Logout","Timestamp":"2023-03-29 03:44:44"}
+{"SessionID":740,"UserID":650,"ProductID":1448,"Action":"Logout","Timestamp":"2023-01-21 12:21:52"}
+{"SessionID":741,"UserID":651,"ProductID":1242,"Action":"Login","Timestamp":null}
+{"SessionID":742,"UserID":null,"ProductID":1788,"Action":"Login","Timestamp":"2022-06-17 19:23:25"}
+{"SessionID":743,"UserID":653,"ProductID":1159,"Action":"Logout","Timestamp":"2023-05-19 12:31:23"}
+{"SessionID":744,"UserID":654,"ProductID":1057,"Action":"Login","Timestamp":"2022-06-26 05:38:17"}
+{"SessionID":745,"UserID":655,"ProductID":1986,"Action":"Login","Timestamp":"2023-04-23 08:50:59"}
+{"SessionID":null,"UserID":656,"ProductID":1698,"Action":null,"Timestamp":"2023-03-17 04:39:19"}
+{"SessionID":747,"UserID":657,"ProductID":1615,"Action":"Logout","Timestamp":"2022-11-03 05:09:07"}
+{"SessionID":748,"UserID":658,"ProductID":1085,"Action":"Login","Timestamp":"2022-10-09 17:52:43"}
+{"SessionID":749,"UserID":null,"ProductID":1629,"Action":"Logout","Timestamp":"2023-05-13 06:42:09"}
+{"SessionID":750,"UserID":660,"ProductID":1747,"Action":"Login","Timestamp":"2023-04-23 19:46:24"}
+{"SessionID":751,"UserID":661,"ProductID":1093,"Action":"Logout","Timestamp":"2022-10-13 15:14:29"}
+{"SessionID":752,"UserID":662,"ProductID":1047,"Action":"Logout","Timestamp":"2022-12-06 13:37:36"}
+{"SessionID":753,"UserID":663,"ProductID":1899,"Action":"Login","Timestamp":"2023-03-06 13:15:39"}
+{"SessionID":754,"UserID":664,"ProductID":1977,"Action":"Login","Timestamp":"2022-06-10 05:28:36"}
+{"SessionID":755,"UserID":665,"ProductID":1237,"Action":"Logout","Timestamp":"2022-09-21 14:13:58"}
+{"SessionID":756,"UserID":666,"ProductID":null,"Action":"Logout","Timestamp":"2023-05-07 06:52:14"}
+{"SessionID":757,"UserID":667,"ProductID":null,"Action":"Login","Timestamp":"2022-06-29 17:03:53"}
+{"SessionID":758,"UserID":668,"ProductID":1846,"Action":"Login","Timestamp":"2022-10-05 07:35:25"}
+{"SessionID":759,"UserID":669,"ProductID":null,"Action":"Logout","Timestamp":"2022-08-19 11:50:56"}
+{"SessionID":760,"UserID":670,"ProductID":null,"Action":"Logout","Timestamp":null}
+{"SessionID":761,"UserID":671,"ProductID":1035,"Action":"Logout","Timestamp":"2023-04-06 14:04:02"}
+{"SessionID":762,"UserID":672,"ProductID":1027,"Action":"Logout","Timestamp":"2022-07-21 11:46:36"}
+{"SessionID":null,"UserID":673,"ProductID":1206,"Action":null,"Timestamp":"2022-12-17 03:46:05"}
+{"SessionID":764,"UserID":null,"ProductID":1109,"Action":"Logout","Timestamp":null}
+{"SessionID":765,"UserID":675,"ProductID":1018,"Action":"Login","Timestamp":"2022-10-31 06:48:11"}
+{"SessionID":766,"UserID":676,"ProductID":1199,"Action":"Login","Timestamp":"2023-04-12 15:34:13"}
+{"SessionID":767,"UserID":677,"ProductID":null,"Action":"Logout","Timestamp":"2023-05-13 06:57:46"}
+{"SessionID":768,"UserID":678,"ProductID":1767,"Action":"Logout","Timestamp":"2023-05-17 20:31:07"}
+{"SessionID":null,"UserID":679,"ProductID":1445,"Action":null,"Timestamp":null}
+{"SessionID":770,"UserID":680,"ProductID":1147,"Action":"Login","Timestamp":"2022-11-04 12:25:39"}
+{"SessionID":771,"UserID":681,"ProductID":1042,"Action":"Login","Timestamp":"2023-02-24 21:51:37"}
+{"SessionID":772,"UserID":682,"ProductID":1402,"Action":"Login","Timestamp":"2023-04-10 16:22:48"}
+{"SessionID":773,"UserID":683,"ProductID":1521,"Action":"Login","Timestamp":"2022-08-04 14:50:09"}
+{"SessionID":774,"UserID":684,"ProductID":null,"Action":"Login","Timestamp":"2022-05-26 13:34:31"}
+{"SessionID":775,"UserID":null,"ProductID":1588,"Action":"Login","Timestamp":"2022-05-24 22:13:51"}
+{"SessionID":776,"UserID":686,"ProductID":1375,"Action":"Logout","Timestamp":"2023-03-15 09:45:09"}
+{"SessionID":null,"UserID":687,"ProductID":null,"Action":null,"Timestamp":"2023-05-11 05:53:15"}
+{"SessionID":778,"UserID":688,"ProductID":1824,"Action":"Login","Timestamp":"2023-03-09 21:37:37"}
+{"SessionID":779,"UserID":689,"ProductID":1478,"Action":"Logout","Timestamp":"2023-04-01 14:01:24"}
+{"SessionID":780,"UserID":690,"ProductID":1530,"Action":"Logout","Timestamp":"2023-02-01 11:49:14"}
+{"SessionID":null,"UserID":691,"ProductID":1576,"Action":null,"Timestamp":"2022-07-07 01:20:14"}
+{"SessionID":782,"UserID":null,"ProductID":1311,"Action":"Login","Timestamp":null}
+{"SessionID":783,"UserID":693,"ProductID":1627,"Action":"Logout","Timestamp":"2023-02-18 22:14:38"}
+{"SessionID":784,"UserID":694,"ProductID":1005,"Action":"Logout","Timestamp":"2022-07-16 23:20:33"}
+{"SessionID":785,"UserID":695,"ProductID":1780,"Action":"Logout","Timestamp":"2022-09-06 08:14:29"}
+{"SessionID":786,"UserID":696,"ProductID":null,"Action":"Logout","Timestamp":"2022-12-04 13:21:40"}
+{"SessionID":787,"UserID":null,"ProductID":null,"Action":"Login","Timestamp":"2022-10-18 02:45:00"}
+{"SessionID":null,"UserID":null,"ProductID":1821,"Action":null,"Timestamp":"2022-06-23 18:25:47"}
+{"SessionID":789,"UserID":699,"ProductID":1166,"Action":"Login","Timestamp":"2022-08-10 05:51:59"}
+{"SessionID":790,"UserID":700,"ProductID":null,"Action":"Logout","Timestamp":"2023-04-29 18:15:26"}
+{"SessionID":791,"UserID":701,"ProductID":1276,"Action":"Login","Timestamp":"2023-01-20 11:36:58"}
+{"SessionID":792,"UserID":702,"ProductID":1130,"Action":"Login","Timestamp":"2022-09-05 07:08:33"}
+{"SessionID":793,"UserID":703,"ProductID":1454,"Action":"Logout","Timestamp":null}
+{"SessionID":794,"UserID":704,"ProductID":null,"Action":"Logout","Timestamp":"2023-01-16 02:41:18"}
+{"SessionID":795,"UserID":705,"ProductID":1427,"Action":"Login","Timestamp":"2023-04-02 14:51:20"}
+{"SessionID":796,"UserID":706,"ProductID":1105,"Action":"Login","Timestamp":"2022-09-09 15:46:09"}
+{"SessionID":797,"UserID":707,"ProductID":1744,"Action":"Logout","Timestamp":"2023-05-15 17:29:58"}
+{"SessionID":798,"UserID":null,"ProductID":1526,"Action":"Login","Timestamp":"2023-02-20 09:51:56"}
+{"SessionID":799,"UserID":709,"ProductID":1173,"Action":"Logout","Timestamp":"2022-09-03 08:14:04"}
+{"SessionID":800,"UserID":710,"ProductID":1705,"Action":"Login","Timestamp":"2023-04-17 17:12:47"}
+{"SessionID":801,"UserID":null,"ProductID":1482,"Action":"Login","Timestamp":"2022-06-23 03:38:23"}
+{"SessionID":802,"UserID":712,"ProductID":1588,"Action":"Logout","Timestamp":"2023-04-07 05:50:20"}
+{"SessionID":803,"UserID":713,"ProductID":1092,"Action":"Login","Timestamp":"2022-08-19 03:12:04"}
+{"SessionID":804,"UserID":714,"ProductID":1686,"Action":"Logout","Timestamp":"2022-06-24 09:15:48"}
+{"SessionID":805,"UserID":715,"ProductID":1859,"Action":"Logout","Timestamp":"2022-11-16 08:42:19"}
+{"SessionID":806,"UserID":716,"ProductID":1019,"Action":"Login","Timestamp":null}
+{"SessionID":807,"UserID":717,"ProductID":1761,"Action":"Login","Timestamp":"2022-08-15 19:11:37"}
+{"SessionID":808,"UserID":718,"ProductID":1643,"Action":"Login","Timestamp":"2023-02-22 01:47:52"}
+{"SessionID":809,"UserID":719,"ProductID":1723,"Action":"Login","Timestamp":null}
+{"SessionID":810,"UserID":720,"ProductID":1234,"Action":"Login","Timestamp":"2023-01-16 10:21:07"}
+{"SessionID":811,"UserID":721,"ProductID":1549,"Action":"Login","Timestamp":"2022-10-20 09:05:24"}
+{"SessionID":812,"UserID":722,"ProductID":1578,"Action":"Login","Timestamp":"2023-03-04 16:58:12"}
+{"SessionID":813,"UserID":723,"ProductID":1932,"Action":"Logout","Timestamp":null}
+{"SessionID":814,"UserID":724,"ProductID":1247,"Action":"Login","Timestamp":"2022-11-04 23:55:38"}
+{"SessionID":815,"UserID":725,"ProductID":1768,"Action":"Login","Timestamp":"2022-06-03 23:39:51"}
+{"SessionID":816,"UserID":726,"ProductID":1711,"Action":"Login","Timestamp":"2023-05-16 04:33:56"}
+{"SessionID":817,"UserID":727,"ProductID":1202,"Action":"Login","Timestamp":"2022-08-11 09:50:40"}
+{"SessionID":818,"UserID":null,"ProductID":1178,"Action":"Login","Timestamp":"2022-12-03 05:06:03"}
+{"SessionID":819,"UserID":729,"ProductID":1198,"Action":"Login","Timestamp":"2022-12-31 01:31:18"}
+{"SessionID":820,"UserID":730,"ProductID":1604,"Action":"Logout","Timestamp":"2022-09-10 04:48:08"}
+{"SessionID":821,"UserID":null,"ProductID":1256,"Action":"Login","Timestamp":"2022-09-25 13:12:10"}
+{"SessionID":822,"UserID":732,"ProductID":1332,"Action":"Logout","Timestamp":"2022-07-05 05:40:29"}
+{"SessionID":null,"UserID":null,"ProductID":1552,"Action":null,"Timestamp":"2022-09-24 18:15:33"}
+{"SessionID":824,"UserID":734,"ProductID":1157,"Action":"Login","Timestamp":"2022-12-06 09:10:29"}
+{"SessionID":825,"UserID":735,"ProductID":1030,"Action":"Logout","Timestamp":"2023-04-04 23:15:21"}
+{"SessionID":826,"UserID":736,"ProductID":1140,"Action":"Logout","Timestamp":null}
+{"SessionID":827,"UserID":null,"ProductID":null,"Action":"Logout","Timestamp":"2022-11-29 09:53:07"}
+{"SessionID":828,"UserID":738,"ProductID":1493,"Action":"Login","Timestamp":"2022-10-30 00:46:32"}
+{"SessionID":829,"UserID":739,"ProductID":1523,"Action":"Logout","Timestamp":"2023-03-20 23:07:37"}
+{"SessionID":830,"UserID":740,"ProductID":1736,"Action":"Login","Timestamp":"2022-07-21 06:09:41"}
+{"SessionID":831,"UserID":741,"ProductID":1128,"Action":"Login","Timestamp":"2022-06-21 21:59:29"}
+{"SessionID":832,"UserID":null,"ProductID":1802,"Action":"Login","Timestamp":"2023-05-22 13:51:04"}
+{"SessionID":833,"UserID":null,"ProductID":1901,"Action":"Login","Timestamp":"2023-01-29 04:20:27"}
+{"SessionID":834,"UserID":744,"ProductID":1800,"Action":"Logout","Timestamp":"2023-03-18 21:48:35"}
+{"SessionID":835,"UserID":745,"ProductID":1579,"Action":"Logout","Timestamp":"2022-12-09 04:01:36"}
+{"SessionID":null,"UserID":null,"ProductID":1218,"Action":null,"Timestamp":"2022-08-28 19:15:41"}
+{"SessionID":837,"UserID":747,"ProductID":1434,"Action":"Login","Timestamp":"2022-09-16 00:31:47"}
+{"SessionID":838,"UserID":748,"ProductID":1997,"Action":"Login","Timestamp":"2023-02-10 02:01:40"}
+{"SessionID":839,"UserID":749,"ProductID":1721,"Action":"Logout","Timestamp":"2022-07-10 21:24:59"}
+{"SessionID":840,"UserID":750,"ProductID":1235,"Action":"Login","Timestamp":"2023-03-03 04:24:19"}
+{"SessionID":841,"UserID":751,"ProductID":1469,"Action":"Logout","Timestamp":"2023-05-10 02:53:21"}
+{"SessionID":842,"UserID":752,"ProductID":1785,"Action":"Logout","Timestamp":"2022-09-11 04:58:19"}
+{"SessionID":843,"UserID":753,"ProductID":1189,"Action":"Logout","Timestamp":null}
+{"SessionID":844,"UserID":754,"ProductID":1530,"Action":"Login","Timestamp":null}
+{"SessionID":845,"UserID":755,"ProductID":1108,"Action":"Logout","Timestamp":"2022-10-13 16:02:52"}
+{"SessionID":846,"UserID":756,"ProductID":1013,"Action":"Logout","Timestamp":"2023-05-07 22:59:24"}
+{"SessionID":847,"UserID":757,"ProductID":1362,"Action":"Logout","Timestamp":"2022-10-29 16:41:26"}
+{"SessionID":848,"UserID":758,"ProductID":1624,"Action":"Logout","Timestamp":"2022-11-05 02:10:44"}
+{"SessionID":849,"UserID":759,"ProductID":1773,"Action":"Login","Timestamp":"2022-09-09 04:15:02"}
+{"SessionID":850,"UserID":760,"ProductID":1125,"Action":"Login","Timestamp":null}
+{"SessionID":851,"UserID":761,"ProductID":1903,"Action":"Logout","Timestamp":null}
+{"SessionID":852,"UserID":762,"ProductID":1458,"Action":"Logout","Timestamp":"2022-11-09 07:27:00"}
+{"SessionID":853,"UserID":763,"ProductID":1692,"Action":"Login","Timestamp":"2022-09-02 11:01:27"}
+{"SessionID":854,"UserID":764,"ProductID":1402,"Action":"Login","Timestamp":"2023-03-11 03:25:32"}
+{"SessionID":855,"UserID":765,"ProductID":1224,"Action":"Logout","Timestamp":"2022-07-26 07:50:27"}
+{"SessionID":856,"UserID":766,"ProductID":1172,"Action":"Login","Timestamp":"2023-04-18 15:24:25"}
+{"SessionID":857,"UserID":767,"ProductID":1646,"Action":"Logout","Timestamp":"2022-10-18 13:59:09"}
+{"SessionID":858,"UserID":768,"ProductID":1663,"Action":"Logout","Timestamp":"2022-07-21 01:30:57"}
+{"SessionID":859,"UserID":769,"ProductID":1787,"Action":"Logout","Timestamp":"2022-12-27 20:54:23"}
+{"SessionID":860,"UserID":770,"ProductID":1262,"Action":"Login","Timestamp":"2023-05-07 06:52:59"}
+{"SessionID":861,"UserID":771,"ProductID":1664,"Action":"Logout","Timestamp":"2023-04-01 02:49:40"}
+{"SessionID":862,"UserID":772,"ProductID":1003,"Action":"Login","Timestamp":null}
+{"SessionID":863,"UserID":773,"ProductID":1039,"Action":"Login","Timestamp":"2023-05-22 11:06:36"}
+{"SessionID":864,"UserID":774,"ProductID":1503,"Action":"Login","Timestamp":"2023-05-20 08:46:10"}
+{"SessionID":865,"UserID":775,"ProductID":1025,"Action":"Logout","Timestamp":"2022-12-28 22:17:35"}
+{"SessionID":866,"UserID":null,"ProductID":1760,"Action":"Logout","Timestamp":"2022-11-23 17:58:04"}
+{"SessionID":867,"UserID":777,"ProductID":1204,"Action":"Login","Timestamp":"2023-02-18 16:57:24"}
+{"SessionID":868,"UserID":778,"ProductID":1605,"Action":"Logout","Timestamp":"2022-08-29 04:15:07"}
+{"SessionID":869,"UserID":779,"ProductID":1422,"Action":"Logout","Timestamp":"2023-02-27 10:48:22"}
+{"SessionID":870,"UserID":780,"ProductID":1304,"Action":"Logout","Timestamp":"2022-06-07 15:38:28"}
+{"SessionID":871,"UserID":781,"ProductID":1910,"Action":"Login","Timestamp":"2022-10-10 16:17:48"}
+{"SessionID":872,"UserID":782,"ProductID":1505,"Action":"Login","Timestamp":"2023-03-13 22:39:41"}
+{"SessionID":873,"UserID":null,"ProductID":null,"Action":"Login","Timestamp":"2022-10-18 18:19:17"}
+{"SessionID":874,"UserID":784,"ProductID":1310,"Action":"Login","Timestamp":null}
+{"SessionID":875,"UserID":785,"ProductID":1344,"Action":"Logout","Timestamp":"2022-06-17 19:39:05"}
+{"SessionID":876,"UserID":786,"ProductID":1604,"Action":"Login","Timestamp":"2023-02-18 18:36:24"}
+{"SessionID":877,"UserID":787,"ProductID":1002,"Action":"Login","Timestamp":"2022-06-26 02:47:31"}
+{"SessionID":878,"UserID":788,"ProductID":1702,"Action":"Login","Timestamp":"2023-04-19 05:52:59"}
+{"SessionID":879,"UserID":null,"ProductID":1208,"Action":"Login","Timestamp":"2023-04-23 17:17:19"}
+{"SessionID":880,"UserID":790,"ProductID":1185,"Action":"Logout","Timestamp":"2022-09-09 16:34:32"}
+{"SessionID":881,"UserID":791,"ProductID":1445,"Action":"Login","Timestamp":"2023-04-29 03:26:47"}
+{"SessionID":882,"UserID":792,"ProductID":1880,"Action":"Logout","Timestamp":"2022-12-18 07:07:09"}
+{"SessionID":883,"UserID":null,"ProductID":1757,"Action":"Logout","Timestamp":"2022-07-22 05:09:59"}
+{"SessionID":884,"UserID":null,"ProductID":1432,"Action":"Login","Timestamp":"2023-04-11 11:49:32"}
+{"SessionID":885,"UserID":795,"ProductID":1845,"Action":"Login","Timestamp":"2022-08-23 10:03:56"}
+{"SessionID":886,"UserID":796,"ProductID":1236,"Action":"Logout","Timestamp":"2022-10-21 13:07:41"}
+{"SessionID":887,"UserID":797,"ProductID":1452,"Action":"Logout","Timestamp":"2023-03-05 19:46:59"}
+{"SessionID":888,"UserID":798,"ProductID":1473,"Action":"Login","Timestamp":"2023-04-15 22:24:00"}
+{"SessionID":889,"UserID":799,"ProductID":1078,"Action":"Logout","Timestamp":"2023-04-26 10:14:32"}
+{"SessionID":890,"UserID":800,"ProductID":1787,"Action":"Login","Timestamp":"2022-06-01 19:14:36"}
+{"SessionID":891,"UserID":801,"ProductID":1744,"Action":"Logout","Timestamp":"2022-07-27 04:34:19"}
+{"SessionID":892,"UserID":802,"ProductID":1991,"Action":"Logout","Timestamp":"2022-10-19 19:34:01"}
+{"SessionID":893,"UserID":803,"ProductID":1965,"Action":"Logout","Timestamp":"2022-11-21 15:10:08"}
+{"SessionID":894,"UserID":804,"ProductID":1381,"Action":"Logout","Timestamp":"2022-11-12 01:07:07"}
+{"SessionID":895,"UserID":805,"ProductID":1348,"Action":"Logout","Timestamp":"2022-09-16 04:42:05"}
+{"SessionID":896,"UserID":806,"ProductID":null,"Action":"Logout","Timestamp":"2022-07-11 06:01:57"}
+{"SessionID":897,"UserID":807,"ProductID":1166,"Action":"Login","Timestamp":"2023-01-03 04:34:48"}
+{"SessionID":898,"UserID":808,"ProductID":1032,"Action":"Login","Timestamp":"2022-10-19 22:18:06"}
+{"SessionID":899,"UserID":809,"ProductID":1421,"Action":"Logout","Timestamp":"2022-07-08 03:56:07"}
+{"SessionID":900,"UserID":810,"ProductID":1898,"Action":"Login","Timestamp":"2022-11-18 22:23:48"}
+{"SessionID":901,"UserID":811,"ProductID":1859,"Action":"Logout","Timestamp":"2023-04-13 07:35:56"}
+{"SessionID":null,"UserID":812,"ProductID":1300,"Action":null,"Timestamp":"2022-11-17 01:42:38"}
+{"SessionID":903,"UserID":null,"ProductID":1403,"Action":"Login","Timestamp":"2022-11-28 17:12:09"}
+{"SessionID":904,"UserID":814,"ProductID":1989,"Action":"Login","Timestamp":null}
+{"SessionID":905,"UserID":815,"ProductID":1174,"Action":"Logout","Timestamp":"2023-01-03 01:52:40"}
+{"SessionID":906,"UserID":816,"ProductID":1333,"Action":"Login","Timestamp":"2022-09-25 08:29:48"}
+{"SessionID":907,"UserID":817,"ProductID":1637,"Action":"Logout","Timestamp":"2022-07-23 22:15:50"}
+{"SessionID":null,"UserID":818,"ProductID":1536,"Action":null,"Timestamp":"2022-12-06 09:56:12"}
+{"SessionID":909,"UserID":819,"ProductID":null,"Action":"Login","Timestamp":"2023-05-20 18:36:30"}
+{"SessionID":910,"UserID":820,"ProductID":1809,"Action":"Logout","Timestamp":"2022-06-27 03:23:22"}
+{"SessionID":null,"UserID":821,"ProductID":1537,"Action":null,"Timestamp":null}
+{"SessionID":912,"UserID":822,"ProductID":1067,"Action":"Logout","Timestamp":"2022-05-28 06:40:06"}
+{"SessionID":913,"UserID":823,"ProductID":1394,"Action":"Logout","Timestamp":"2022-06-12 02:42:59"}
+{"SessionID":914,"UserID":824,"ProductID":1436,"Action":"Login","Timestamp":"2022-10-09 23:23:58"}
+{"SessionID":915,"UserID":825,"ProductID":1493,"Action":"Login","Timestamp":"2022-12-17 17:50:21"}
+{"SessionID":916,"UserID":826,"ProductID":1698,"Action":"Logout","Timestamp":"2022-10-18 17:11:16"}
+{"SessionID":917,"UserID":827,"ProductID":1866,"Action":"Login","Timestamp":"2022-11-27 14:19:39"}
+{"SessionID":918,"UserID":828,"ProductID":1657,"Action":"Login","Timestamp":"2023-03-18 20:39:44"}
+{"SessionID":919,"UserID":829,"ProductID":1260,"Action":"Login","Timestamp":"2022-12-20 05:55:56"}
+{"SessionID":920,"UserID":830,"ProductID":1163,"Action":"Logout","Timestamp":"2023-01-30 14:37:12"}
+{"SessionID":921,"UserID":null,"ProductID":1465,"Action":"Logout","Timestamp":"2022-09-22 03:20:03"}
+{"SessionID":922,"UserID":832,"ProductID":1652,"Action":"Logout","Timestamp":"2023-02-01 09:50:18"}
+{"SessionID":923,"UserID":833,"ProductID":1271,"Action":"Logout","Timestamp":"2023-05-08 20:03:30"}
+{"SessionID":924,"UserID":834,"ProductID":1030,"Action":"Logout","Timestamp":"2023-03-18 20:52:02"}
+{"SessionID":null,"UserID":null,"ProductID":1253,"Action":null,"Timestamp":"2023-02-09 16:31:05"}
+{"SessionID":926,"UserID":836,"ProductID":1472,"Action":"Login","Timestamp":"2023-02-27 21:07:45"}
+{"SessionID":927,"UserID":837,"ProductID":1270,"Action":"Logout","Timestamp":null}
+{"SessionID":928,"UserID":838,"ProductID":1611,"Action":"Logout","Timestamp":"2022-09-02 15:13:35"}
+{"SessionID":929,"UserID":839,"ProductID":1236,"Action":"Login","Timestamp":"2022-09-23 01:26:42"}
+{"SessionID":930,"UserID":840,"ProductID":1597,"Action":"Login","Timestamp":"2023-03-24 23:20:40"}
+{"SessionID":931,"UserID":null,"ProductID":1098,"Action":"Logout","Timestamp":"2023-01-27 04:59:56"}
+{"SessionID":932,"UserID":842,"ProductID":null,"Action":"Login","Timestamp":"2022-08-25 05:00:05"}
+{"SessionID":933,"UserID":843,"ProductID":1112,"Action":"Login","Timestamp":"2023-02-16 19:22:13"}
+{"SessionID":934,"UserID":844,"ProductID":1096,"Action":"Logout","Timestamp":"2022-11-10 09:44:35"}
+{"SessionID":935,"UserID":845,"ProductID":1295,"Action":"Login","Timestamp":"2022-10-22 16:53:39"}
+{"SessionID":936,"UserID":846,"ProductID":1909,"Action":"Login","Timestamp":"2022-06-27 12:45:34"}
+{"SessionID":937,"UserID":847,"ProductID":1781,"Action":"Logout","Timestamp":"2023-03-19 11:26:59"}
+{"SessionID":938,"UserID":null,"ProductID":1971,"Action":"Login","Timestamp":"2022-12-22 09:54:58"}
+{"SessionID":939,"UserID":null,"ProductID":1248,"Action":"Logout","Timestamp":null}
+{"SessionID":940,"UserID":850,"ProductID":null,"Action":"Logout","Timestamp":"2022-05-31 23:56:13"}
+{"SessionID":941,"UserID":851,"ProductID":1553,"Action":"Logout","Timestamp":"2022-08-30 03:01:14"}
+{"SessionID":942,"UserID":852,"ProductID":1708,"Action":"Login","Timestamp":"2022-08-09 06:40:31"}
+{"SessionID":943,"UserID":853,"ProductID":1475,"Action":"Login","Timestamp":"2023-01-23 22:41:37"}
+{"SessionID":944,"UserID":854,"ProductID":1522,"Action":"Login","Timestamp":"2023-04-12 07:32:00"}
+{"SessionID":945,"UserID":855,"ProductID":1390,"Action":"Login","Timestamp":"2022-08-25 01:55:32"}
+{"SessionID":946,"UserID":856,"ProductID":1034,"Action":"Logout","Timestamp":"2023-01-31 02:27:39"}
+{"SessionID":947,"UserID":857,"ProductID":1932,"Action":"Login","Timestamp":"2022-07-16 17:15:46"}
+{"SessionID":948,"UserID":858,"ProductID":1495,"Action":"Logout","Timestamp":"2023-01-05 23:41:34"}
+{"SessionID":949,"UserID":859,"ProductID":1520,"Action":"Login","Timestamp":"2022-09-24 20:21:21"}
+{"SessionID":950,"UserID":860,"ProductID":1103,"Action":"Logout","Timestamp":null}
+{"SessionID":951,"UserID":861,"ProductID":1794,"Action":"Login","Timestamp":"2022-09-05 03:07:51"}
+{"SessionID":952,"UserID":862,"ProductID":1198,"Action":"Login","Timestamp":"2023-02-17 14:06:41"}
+{"SessionID":953,"UserID":863,"ProductID":1071,"Action":"Logout","Timestamp":null}
+{"SessionID":954,"UserID":864,"ProductID":1766,"Action":"Logout","Timestamp":"2023-01-27 08:51:48"}
+{"SessionID":955,"UserID":865,"ProductID":1841,"Action":"Logout","Timestamp":"2022-10-31 10:20:07"}
+{"SessionID":null,"UserID":866,"ProductID":1310,"Action":null,"Timestamp":"2022-08-10 03:13:32"}
+{"SessionID":957,"UserID":null,"ProductID":1221,"Action":"Login","Timestamp":"2023-03-20 07:20:52"}
+{"SessionID":958,"UserID":868,"ProductID":1675,"Action":"Login","Timestamp":"2023-05-14 07:33:09"}
+{"SessionID":959,"UserID":null,"ProductID":1464,"Action":"Logout","Timestamp":"2022-07-14 06:44:48"}
+{"SessionID":960,"UserID":870,"ProductID":1216,"Action":"Logout","Timestamp":"2023-04-17 19:31:02"}
+{"SessionID":961,"UserID":871,"ProductID":1671,"Action":"Login","Timestamp":"2023-05-03 09:39:06"}
+{"SessionID":962,"UserID":872,"ProductID":1698,"Action":"Logout","Timestamp":"2022-10-18 12:57:21"}
+{"SessionID":963,"UserID":873,"ProductID":1778,"Action":"Login","Timestamp":"2022-12-06 07:44:15"}
+{"SessionID":964,"UserID":874,"ProductID":1207,"Action":"Login","Timestamp":"2023-03-20 07:47:33"}
+{"SessionID":965,"UserID":875,"ProductID":1000,"Action":"Login","Timestamp":"2023-01-15 09:04:35"}
+{"SessionID":966,"UserID":876,"ProductID":1926,"Action":"Login","Timestamp":"2023-04-29 07:54:10"}
+{"SessionID":967,"UserID":877,"ProductID":1529,"Action":"Logout","Timestamp":"2022-11-28 15:45:51"}
+{"SessionID":968,"UserID":878,"ProductID":1089,"Action":"Login","Timestamp":"2022-09-22 06:36:04"}
+{"SessionID":969,"UserID":879,"ProductID":1754,"Action":"Logout","Timestamp":"2022-10-19 06:31:13"}
+{"SessionID":970,"UserID":880,"ProductID":1408,"Action":"Login","Timestamp":"2022-09-28 03:12:52"}
+{"SessionID":971,"UserID":881,"ProductID":1745,"Action":"Logout","Timestamp":"2023-03-21 02:10:47"}
+{"SessionID":972,"UserID":882,"ProductID":1591,"Action":"Logout","Timestamp":null}
+{"SessionID":973,"UserID":883,"ProductID":1284,"Action":"Login","Timestamp":"2022-09-06 06:32:37"}
+{"SessionID":974,"UserID":884,"ProductID":1287,"Action":"Login","Timestamp":null}
+{"SessionID":975,"UserID":885,"ProductID":1566,"Action":"Login","Timestamp":"2022-09-20 19:13:42"}
+{"SessionID":976,"UserID":886,"ProductID":1015,"Action":"Login","Timestamp":"2022-10-25 12:49:20"}
+{"SessionID":977,"UserID":887,"ProductID":1348,"Action":"Logout","Timestamp":"2023-03-07 12:03:52"}
+{"SessionID":978,"UserID":888,"ProductID":1938,"Action":"Logout","Timestamp":"2022-06-04 12:09:32"}
+{"SessionID":979,"UserID":889,"ProductID":1091,"Action":"Logout","Timestamp":"2023-05-09 12:38:07"}
+{"SessionID":980,"UserID":890,"ProductID":1952,"Action":"Logout","Timestamp":null}
+{"SessionID":981,"UserID":891,"ProductID":1798,"Action":"Logout","Timestamp":"2023-03-11 08:32:07"}
+{"SessionID":982,"UserID":892,"ProductID":1304,"Action":"Logout","Timestamp":"2022-05-24 07:55:29"}
+{"SessionID":983,"UserID":893,"ProductID":1171,"Action":"Logout","Timestamp":"2022-11-27 08:48:34"}
+{"SessionID":984,"UserID":null,"ProductID":1502,"Action":"Logout","Timestamp":"2023-04-23 23:25:23"}
+{"SessionID":985,"UserID":895,"ProductID":1215,"Action":"Login","Timestamp":null}
+{"SessionID":986,"UserID":896,"ProductID":1499,"Action":"Login","Timestamp":"2022-06-03 15:22:04"}
+{"SessionID":987,"UserID":897,"ProductID":1609,"Action":"Login","Timestamp":"2022-09-11 13:17:23"}
+{"SessionID":988,"UserID":null,"ProductID":1374,"Action":"Logout","Timestamp":"2022-07-11 09:03:00"}
+{"SessionID":989,"UserID":899,"ProductID":1109,"Action":"Logout","Timestamp":"2022-12-02 21:16:48"}
+{"SessionID":990,"UserID":null,"ProductID":1532,"Action":"Logout","Timestamp":null}
+{"SessionID":991,"UserID":901,"ProductID":1517,"Action":"Logout","Timestamp":"2023-02-25 03:03:29"}
+{"SessionID":992,"UserID":902,"ProductID":1081,"Action":"Login","Timestamp":"2022-11-16 18:52:47"}
+{"SessionID":993,"UserID":903,"ProductID":1464,"Action":"Logout","Timestamp":"2022-07-19 20:48:21"}
+{"SessionID":994,"UserID":904,"ProductID":1573,"Action":"Login","Timestamp":"2023-02-20 04:52:42"}
+{"SessionID":995,"UserID":905,"ProductID":1020,"Action":"Logout","Timestamp":"2022-10-30 14:54:50"}
+{"SessionID":996,"UserID":906,"ProductID":1310,"Action":"Login","Timestamp":"2022-06-27 05:44:18"}
+{"SessionID":997,"UserID":907,"ProductID":1511,"Action":"Logout","Timestamp":"2023-01-01 02:19:09"}
+{"SessionID":998,"UserID":908,"ProductID":1811,"Action":"Logout","Timestamp":"2022-08-20 10:04:09"}
+{"SessionID":999,"UserID":909,"ProductID":1128,"Action":"Login","Timestamp":"2022-07-24 06:19:54"}
+{"SessionID":1000,"UserID":910,"ProductID":1015,"Action":"Logout","Timestamp":"2022-12-09 19:33:03"}
+{"SessionID":1001,"UserID":911,"ProductID":1967,"Action":"Logout","Timestamp":"2023-05-18 03:38:22"}
+{"SessionID":1002,"UserID":912,"ProductID":1182,"Action":"Logout","Timestamp":"2022-06-22 16:15:44"}
+{"SessionID":1003,"UserID":913,"ProductID":1664,"Action":"Logout","Timestamp":"2022-10-23 07:05:53"}
+{"SessionID":1004,"UserID":914,"ProductID":1901,"Action":"Logout","Timestamp":"2022-08-01 18:37:26"}
+{"SessionID":1005,"UserID":915,"ProductID":1779,"Action":"Logout","Timestamp":"2023-02-24 05:52:17"}
+{"SessionID":1006,"UserID":916,"ProductID":1265,"Action":"Logout","Timestamp":"2022-11-19 09:48:09"}
+{"SessionID":1007,"UserID":null,"ProductID":1725,"Action":"Login","Timestamp":"2022-08-25 12:45:14"}
+{"SessionID":1008,"UserID":918,"ProductID":1843,"Action":"Login","Timestamp":"2023-05-21 00:13:00"}
+{"SessionID":1009,"UserID":919,"ProductID":1433,"Action":"Logout","Timestamp":"2023-02-25 20:55:24"}
+{"SessionID":1010,"UserID":null,"ProductID":1251,"Action":"Logout","Timestamp":"2022-06-22 09:24:01"}
+{"SessionID":1011,"UserID":921,"ProductID":1144,"Action":"Login","Timestamp":"2022-06-26 05:23:28"}
+{"SessionID":1012,"UserID":922,"ProductID":1672,"Action":"Login","Timestamp":"2023-01-21 07:35:49"}
+{"SessionID":null,"UserID":923,"ProductID":1451,"Action":null,"Timestamp":"2023-01-24 18:21:53"}
+{"SessionID":1014,"UserID":924,"ProductID":1655,"Action":"Login","Timestamp":"2023-04-15 06:17:45"}
+{"SessionID":1015,"UserID":925,"ProductID":1851,"Action":"Logout","Timestamp":"2022-09-01 04:58:37"}
+{"SessionID":1016,"UserID":926,"ProductID":null,"Action":"Logout","Timestamp":"2022-06-02 15:30:10"}
+{"SessionID":1017,"UserID":927,"ProductID":1703,"Action":"Logout","Timestamp":"2022-12-20 23:55:35"}
+{"SessionID":1018,"UserID":928,"ProductID":1630,"Action":"Logout","Timestamp":"2022-07-06 19:31:43"}
+{"SessionID":null,"UserID":929,"ProductID":1335,"Action":null,"Timestamp":"2022-11-22 05:49:55"}
+{"SessionID":1020,"UserID":930,"ProductID":1111,"Action":"Login","Timestamp":"2023-05-14 12:44:30"}
+{"SessionID":1021,"UserID":931,"ProductID":1533,"Action":"Logout","Timestamp":"2023-01-24 17:32:48"}
+{"SessionID":1022,"UserID":932,"ProductID":1232,"Action":"Logout","Timestamp":"2023-03-12 07:39:32"}
+{"SessionID":1023,"UserID":933,"ProductID":1584,"Action":"Login","Timestamp":"2022-06-05 11:38:52"}
+{"SessionID":1024,"UserID":934,"ProductID":1406,"Action":"Logout","Timestamp":"2022-09-08 13:23:41"}
+{"SessionID":1025,"UserID":935,"ProductID":1197,"Action":"Logout","Timestamp":"2023-01-15 21:45:25"}
+{"SessionID":1026,"UserID":936,"ProductID":1738,"Action":"Logout","Timestamp":"2022-12-23 05:51:46"}
+{"SessionID":1027,"UserID":937,"ProductID":1043,"Action":"Login","Timestamp":"2022-07-13 07:34:23"}
+{"SessionID":1028,"UserID":938,"ProductID":1793,"Action":"Logout","Timestamp":"2022-08-03 11:49:46"}
+{"SessionID":null,"UserID":939,"ProductID":1885,"Action":null,"Timestamp":"2022-09-23 06:44:53"}
+{"SessionID":1030,"UserID":null,"ProductID":1451,"Action":"Login","Timestamp":"2022-11-13 22:05:32"}
+{"SessionID":1031,"UserID":941,"ProductID":1537,"Action":"Login","Timestamp":"2023-05-01 13:17:23"}
+{"SessionID":1032,"UserID":942,"ProductID":1631,"Action":"Logout","Timestamp":"2022-11-16 03:08:03"}
+{"SessionID":1033,"UserID":943,"ProductID":1274,"Action":"Login","Timestamp":"2022-09-30 01:40:35"}
+{"SessionID":1034,"UserID":944,"ProductID":1360,"Action":"Login","Timestamp":"2023-03-25 08:56:23"}
+{"SessionID":1035,"UserID":null,"ProductID":1653,"Action":"Login","Timestamp":"2022-11-15 23:42:59"}
+{"SessionID":null,"UserID":946,"ProductID":1866,"Action":null,"Timestamp":"2022-11-01 18:41:17"}
+{"SessionID":1037,"UserID":947,"ProductID":1477,"Action":"Logout","Timestamp":null}
+{"SessionID":1038,"UserID":948,"ProductID":1880,"Action":"Logout","Timestamp":"2023-03-30 17:16:52"}
+{"SessionID":1039,"UserID":null,"ProductID":1051,"Action":"Logout","Timestamp":"2022-10-16 21:07:20"}
+{"SessionID":1040,"UserID":950,"ProductID":1093,"Action":"Login","Timestamp":"2022-12-21 18:44:41"}
+{"SessionID":1041,"UserID":951,"ProductID":null,"Action":"Logout","Timestamp":null}
+{"SessionID":1042,"UserID":952,"ProductID":1762,"Action":"Logout","Timestamp":"2023-03-13 16:04:12"}
+{"SessionID":1043,"UserID":953,"ProductID":1550,"Action":"Login","Timestamp":"2022-08-16 06:38:54"}
+{"SessionID":1044,"UserID":954,"ProductID":1456,"Action":"Login","Timestamp":"2022-08-05 03:07:32"}
+{"SessionID":1045,"UserID":null,"ProductID":1214,"Action":"Login","Timestamp":null}
+{"SessionID":1046,"UserID":956,"ProductID":1742,"Action":"Logout","Timestamp":"2022-06-17 01:45:42"}
+{"SessionID":1047,"UserID":957,"ProductID":1469,"Action":"Login","Timestamp":"2022-10-22 10:16:12"}
+{"SessionID":null,"UserID":958,"ProductID":1139,"Action":null,"Timestamp":"2023-01-08 16:47:53"}
+{"SessionID":1049,"UserID":959,"ProductID":1961,"Action":"Login","Timestamp":null}
+{"SessionID":1050,"UserID":960,"ProductID":1581,"Action":"Logout","Timestamp":"2022-12-05 12:20:36"}
+{"SessionID":1051,"UserID":961,"ProductID":1501,"Action":"Logout","Timestamp":null}
+{"SessionID":1052,"UserID":962,"ProductID":1935,"Action":"Login","Timestamp":"2022-11-25 16:21:46"}
+{"SessionID":1053,"UserID":963,"ProductID":1221,"Action":"Logout","Timestamp":"2022-06-20 18:15:57"}
+{"SessionID":1054,"UserID":964,"ProductID":1054,"Action":"Logout","Timestamp":"2023-01-22 19:51:19"}
+{"SessionID":1055,"UserID":965,"ProductID":1724,"Action":"Logout","Timestamp":"2022-10-22 02:40:55"}
+{"SessionID":1056,"UserID":null,"ProductID":1202,"Action":"Login","Timestamp":"2023-01-31 20:26:08"}
+{"SessionID":1057,"UserID":967,"ProductID":null,"Action":"Login","Timestamp":null}
+{"SessionID":1058,"UserID":968,"ProductID":1425,"Action":"Login","Timestamp":"2023-04-28 13:58:25"}
+{"SessionID":1059,"UserID":969,"ProductID":1843,"Action":"Logout","Timestamp":"2022-09-29 21:08:41"}
+{"SessionID":1060,"UserID":970,"ProductID":1751,"Action":"Logout","Timestamp":"2023-04-05 09:51:03"}
+{"SessionID":1061,"UserID":971,"ProductID":1180,"Action":"Login","Timestamp":"2023-05-01 15:58:22"}
+{"SessionID":1062,"UserID":972,"ProductID":1409,"Action":"Login","Timestamp":null}
+{"SessionID":1063,"UserID":973,"ProductID":null,"Action":"Logout","Timestamp":"2022-07-21 04:18:32"}
+{"SessionID":1064,"UserID":974,"ProductID":1894,"Action":"Login","Timestamp":"2023-04-25 18:34:29"}
+{"SessionID":1065,"UserID":975,"ProductID":1505,"Action":"Logout","Timestamp":"2023-01-01 06:01:45"}
+{"SessionID":1066,"UserID":976,"ProductID":1567,"Action":"Login","Timestamp":"2022-10-28 13:46:08"}
+{"SessionID":1067,"UserID":977,"ProductID":1547,"Action":"Login","Timestamp":"2023-02-11 02:10:21"}
+{"SessionID":1068,"UserID":978,"ProductID":1318,"Action":"Login","Timestamp":"2023-04-27 10:50:38"}
+{"SessionID":1069,"UserID":null,"ProductID":1114,"Action":"Login","Timestamp":"2023-01-02 05:50:11"}
+{"SessionID":null,"UserID":980,"ProductID":1922,"Action":null,"Timestamp":"2022-05-28 02:00:50"}
+{"SessionID":1071,"UserID":981,"ProductID":1292,"Action":"Login","Timestamp":"2022-07-23 12:53:00"}
+{"SessionID":null,"UserID":982,"ProductID":1400,"Action":null,"Timestamp":"2022-08-01 13:05:12"}
+{"SessionID":1073,"UserID":983,"ProductID":1041,"Action":"Login","Timestamp":null}
+{"SessionID":1074,"UserID":984,"ProductID":1848,"Action":"Login","Timestamp":"2023-04-30 14:43:09"}
+{"SessionID":1075,"UserID":985,"ProductID":1667,"Action":"Login","Timestamp":"2022-08-03 05:46:19"}
+{"SessionID":1076,"UserID":986,"ProductID":1806,"Action":"Login","Timestamp":"2023-01-21 04:42:15"}
+{"SessionID":1077,"UserID":987,"ProductID":1914,"Action":"Logout","Timestamp":"2023-05-09 13:43:43"}
+{"SessionID":1078,"UserID":988,"ProductID":1766,"Action":"Logout","Timestamp":"2023-05-18 17:25:13"}
+{"SessionID":null,"UserID":989,"ProductID":1079,"Action":null,"Timestamp":"2022-09-20 09:20:25"}
+{"SessionID":1080,"UserID":990,"ProductID":1585,"Action":"Logout","Timestamp":"2022-06-14 13:04:13"}
+{"SessionID":1081,"UserID":991,"ProductID":1456,"Action":"Login","Timestamp":"2022-12-20 19:04:33"}
+{"SessionID":1082,"UserID":992,"ProductID":1134,"Action":"Logout","Timestamp":"2022-07-31 04:37:02"}
+{"SessionID":1083,"UserID":993,"ProductID":1678,"Action":"Logout","Timestamp":"2022-06-01 18:03:23"}
+{"SessionID":1084,"UserID":994,"ProductID":1034,"Action":"Logout","Timestamp":"2022-10-27 10:33:54"}
+{"SessionID":null,"UserID":995,"ProductID":null,"Action":null,"Timestamp":"2023-03-01 07:51:19"}
+{"SessionID":1086,"UserID":996,"ProductID":1489,"Action":"Login","Timestamp":"2022-09-20 16:00:54"}
+{"SessionID":1087,"UserID":997,"ProductID":1487,"Action":"Logout","Timestamp":"2022-07-21 17:55:59"}
+{"SessionID":1088,"UserID":null,"ProductID":1647,"Action":"Login","Timestamp":"2022-06-09 09:05:24"}
+{"SessionID":1089,"UserID":999,"ProductID":1029,"Action":"Login","Timestamp":"2023-02-23 11:47:53"}
+{"SessionID":1090,"UserID":1000,"ProductID":1880,"Action":"Logout","Timestamp":"2022-09-17 12:40:57"}
+{"SessionID":1091,"UserID":1001,"ProductID":1998,"Action":"Login","Timestamp":"2022-10-31 23:53:51"}
+{"SessionID":1092,"UserID":1002,"ProductID":1444,"Action":"Login","Timestamp":"2022-06-13 16:59:16"}
+{"SessionID":1093,"UserID":1003,"ProductID":1995,"Action":"Login","Timestamp":"2022-12-12 18:01:58"}
+{"SessionID":null,"UserID":1004,"ProductID":1808,"Action":null,"Timestamp":"2023-01-30 06:48:50"}
+{"SessionID":1095,"UserID":1005,"ProductID":1723,"Action":"Logout","Timestamp":"2022-11-05 02:00:01"}
+{"SessionID":1096,"UserID":1006,"ProductID":1776,"Action":"Logout","Timestamp":"2022-06-10 20:06:11"}
+{"SessionID":1097,"UserID":1007,"ProductID":1638,"Action":"Login","Timestamp":"2023-05-09 16:10:29"}
+{"SessionID":1098,"UserID":null,"ProductID":1196,"Action":"Login","Timestamp":"2023-03-01 03:45:59"}
+{"SessionID":null,"UserID":null,"ProductID":1822,"Action":null,"Timestamp":null}
+{"SessionID":1100,"UserID":1010,"ProductID":1350,"Action":"Login","Timestamp":"2022-12-25 02:06:02"}
