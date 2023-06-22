@@ -27,6 +27,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'accessToken' of 'AzureDatabricks_pos'"
 		},
+		"AzureDatabricks_sup_accessToken": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accessToken' of 'AzureDatabricks_sup'"
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "https://proj2storagesb.dfs.core.windows.net/"
@@ -40,6 +44,10 @@
 			"defaultValue": "https://proj2storagesb.dfs.core.windows.net/"
 		},
 		"AzureDatabricks_pos_properties_typeProperties_existingClusterId": {
+			"type": "string",
+			"defaultValue": "0617-163117-9xnasxny"
+		},
+		"AzureDatabricks_sup_properties_typeProperties_existingClusterId": {
 			"type": "string",
 			"defaultValue": "0617-163117-9xnasxny"
 		}
@@ -127,6 +135,24 @@
 						"value": "[parameters('AzureDatabricks_pos_accessToken')]"
 					},
 					"existingClusterId": "[parameters('AzureDatabricks_pos_properties_typeProperties_existingClusterId')]"
+				}
+			},
+			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/AzureDatabricks_sup')]",
+			"type": "Microsoft.DataFactory/factories/linkedServices",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"annotations": [],
+				"type": "AzureDatabricks",
+				"typeProperties": {
+					"domain": "https://adb-1665336865229896.16.azuredatabricks.net",
+					"accessToken": {
+						"type": "SecureString",
+						"value": "[parameters('AzureDatabricks_sup_accessToken')]"
+					},
+					"existingClusterId": "[parameters('AzureDatabricks_sup_properties_typeProperties_existingClusterId')]"
 				}
 			},
 			"dependsOn": []
@@ -638,6 +664,89 @@
 			]
 		},
 		{
+			"name": "[concat(parameters('factoryName'), '/Parquet_sup_stage')]",
+			"type": "Microsoft.DataFactory/factories/datasets",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"linkedServiceName": {
+					"referenceName": "AzureDataLakeStorage2",
+					"type": "LinkedServiceReference"
+				},
+				"parameters": {
+					"folder_path": {
+						"type": "string"
+					}
+				},
+				"annotations": [],
+				"type": "Parquet",
+				"typeProperties": {
+					"location": {
+						"type": "AzureBlobFSLocation",
+						"folderPath": {
+							"value": "@dataset().folder_path",
+							"type": "Expression"
+						},
+						"fileSystem": "staged"
+					},
+					"compressionCodec": "snappy"
+				},
+				"schema": [
+					{
+						"name": "TransactionID",
+						"type": "UTF8"
+					},
+					{
+						"name": "StoreID",
+						"type": "UTF8"
+					},
+					{
+						"name": "ProductID",
+						"type": "UTF8"
+					},
+					{
+						"name": "Quantity",
+						"type": "UTF8"
+					},
+					{
+						"name": "Price",
+						"type": "UTF8"
+					},
+					{
+						"name": "TotalSale",
+						"type": "UTF8"
+					},
+					{
+						"name": "Timestamp",
+						"type": "UTF8"
+					}
+				]
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/linkedServices/AzureDataLakeStorage2')]"
+			]
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/AzureSqlTable_sup')]",
+			"type": "Microsoft.DataFactory/factories/datasets",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"linkedServiceName": {
+					"referenceName": "ecom_sql_ls",
+					"type": "LinkedServiceReference"
+				},
+				"annotations": [],
+				"type": "AzureSqlTable",
+				"schema": [],
+				"typeProperties": {
+					"schema": "dbo",
+					"table": "sup_data"
+				}
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/linkedServices/ecom_sql_ls')]"
+			]
+		},
+		{
 			"name": "[concat(parameters('factoryName'), '/ECOM_LANDING')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
@@ -805,315 +914,6 @@
 				"[concat(variables('factoryId'), '/linkedServices/ecom_Databricks')]",
 				"[concat(variables('factoryId'), '/datasets/Parquet_ecom')]",
 				"[concat(variables('factoryId'), '/datasets/ecom_table')]"
-			]
-		},
-		{
-			"name": "[concat(parameters('factoryName'), '/POS_landing_csv')]",
-			"type": "Microsoft.DataFactory/factories/pipelines",
-			"apiVersion": "2018-06-01",
-			"properties": {
-				"activities": [
-					{
-						"name": "Copy EOS THRID PART TO LANDING",
-						"type": "Copy",
-						"dependsOn": [],
-						"policy": {
-							"timeout": "0.12:00:00",
-							"retry": 0,
-							"retryIntervalInSeconds": 30,
-							"secureOutput": false,
-							"secureInput": false
-						},
-						"userProperties": [],
-						"typeProperties": {
-							"source": {
-								"type": "DelimitedTextSource",
-								"storeSettings": {
-									"type": "AzureBlobFSReadSettings",
-									"recursive": true,
-									"wildcardFileName": "*.csv",
-									"enablePartitionDiscovery": false
-								},
-								"formatSettings": {
-									"type": "DelimitedTextReadSettings"
-								}
-							},
-							"sink": {
-								"type": "ParquetSink",
-								"storeSettings": {
-									"type": "AzureBlobFSWriteSettings"
-								},
-								"formatSettings": {
-									"type": "ParquetWriteSettings"
-								}
-							},
-							"enableStaging": false,
-							"translator": {
-								"type": "TabularTranslator",
-								"typeConversion": true,
-								"typeConversionSettings": {
-									"allowDataTruncation": true,
-									"treatBooleanAsNumber": false
-								}
-							}
-						},
-						"inputs": [
-							{
-								"referenceName": "csv_pos",
-								"type": "DatasetReference",
-								"parameters": {}
-							}
-						],
-						"outputs": [
-							{
-								"referenceName": "Parquet_POS",
-								"type": "DatasetReference",
-								"parameters": {
-									"pos_folder": {
-										"value": "POS/@{formatDateTime(utcnow(),'dd-MM-yyyy')}",
-										"type": "Expression"
-									}
-								}
-							}
-						]
-					},
-					{
-						"name": "pos_brick",
-						"type": "DatabricksNotebook",
-						"dependsOn": [
-							{
-								"activity": "Copy EOS THRID PART TO LANDING",
-								"dependencyConditions": [
-									"Succeeded"
-								]
-							}
-						],
-						"policy": {
-							"timeout": "0.12:00:00",
-							"retry": 0,
-							"retryIntervalInSeconds": 30,
-							"secureOutput": false,
-							"secureInput": false
-						},
-						"userProperties": [],
-						"typeProperties": {
-							"notebookPath": "/Users/azureproj2@gmail.com/POS_Impl"
-						},
-						"linkedServiceName": {
-							"referenceName": "AzureDatabricks_pos",
-							"type": "LinkedServiceReference"
-						}
-					},
-					{
-						"name": "pos_sqlserver",
-						"type": "Copy",
-						"dependsOn": [
-							{
-								"activity": "pos_brick",
-								"dependencyConditions": [
-									"Succeeded"
-								]
-							}
-						],
-						"policy": {
-							"timeout": "0.12:00:00",
-							"retry": 0,
-							"retryIntervalInSeconds": 30,
-							"secureOutput": false,
-							"secureInput": false
-						},
-						"userProperties": [],
-						"typeProperties": {
-							"source": {
-								"type": "ParquetSource",
-								"storeSettings": {
-									"type": "AzureBlobFSReadSettings",
-									"recursive": true,
-									"wildcardFileName": "*.parquet",
-									"enablePartitionDiscovery": false
-								},
-								"formatSettings": {
-									"type": "ParquetReadSettings"
-								}
-							},
-							"sink": {
-								"type": "AzureSqlSink",
-								"writeBehavior": "insert",
-								"sqlWriterUseTableLock": false,
-								"tableOption": "autoCreate",
-								"disableMetricsCollection": false
-							},
-							"enableStaging": false,
-							"translator": {
-								"type": "TabularTranslator",
-								"typeConversion": true,
-								"typeConversionSettings": {
-									"allowDataTruncation": true,
-									"treatBooleanAsNumber": false
-								}
-							}
-						},
-						"inputs": [
-							{
-								"referenceName": "Parquet1",
-								"type": "DatasetReference",
-								"parameters": {
-									"folder_path": {
-										"value": "POS/@{formatDateTime(utcnow(),'dd-MM-yyyy')}",
-										"type": "Expression"
-									}
-								}
-							}
-						],
-						"outputs": [
-							{
-								"referenceName": "AzureSqlTable_pos",
-								"type": "DatasetReference",
-								"parameters": {}
-							}
-						]
-					}
-				],
-				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
-				},
-				"annotations": []
-			},
-			"dependsOn": [
-				"[concat(variables('factoryId'), '/datasets/csv_pos')]",
-				"[concat(variables('factoryId'), '/datasets/Parquet_POS')]",
-				"[concat(variables('factoryId'), '/linkedServices/AzureDatabricks_pos')]",
-				"[concat(variables('factoryId'), '/datasets/Parquet1')]",
-				"[concat(variables('factoryId'), '/datasets/AzureSqlTable_pos')]"
-			]
-		},
-		{
-			"name": "[concat(parameters('factoryName'), '/SUP_landing_parquet')]",
-			"type": "Microsoft.DataFactory/factories/pipelines",
-			"apiVersion": "2018-06-01",
-			"properties": {
-				"activities": [
-					{
-						"name": "Copy SUP THRID PARTY TO LANDING",
-						"type": "Copy",
-						"dependsOn": [],
-						"policy": {
-							"timeout": "0.12:00:00",
-							"retry": 0,
-							"retryIntervalInSeconds": 30,
-							"secureOutput": false,
-							"secureInput": false
-						},
-						"userProperties": [],
-						"typeProperties": {
-							"source": {
-								"type": "ParquetSource",
-								"storeSettings": {
-									"type": "AzureBlobFSReadSettings",
-									"recursive": true,
-									"wildcardFileName": "*.parquet",
-									"enablePartitionDiscovery": false
-								},
-								"formatSettings": {
-									"type": "ParquetReadSettings"
-								}
-							},
-							"sink": {
-								"type": "ParquetSink",
-								"storeSettings": {
-									"type": "AzureBlobFSWriteSettings"
-								},
-								"formatSettings": {
-									"type": "ParquetWriteSettings"
-								}
-							},
-							"enableStaging": false,
-							"translator": {
-								"type": "TabularTranslator",
-								"typeConversion": true,
-								"typeConversionSettings": {
-									"allowDataTruncation": true,
-									"treatBooleanAsNumber": false
-								}
-							}
-						},
-						"inputs": [
-							{
-								"referenceName": "Parquet_SUP",
-								"type": "DatasetReference",
-								"parameters": {}
-							}
-						],
-						"outputs": [
-							{
-								"referenceName": "SUP_Parquet",
-								"type": "DatasetReference",
-								"parameters": {
-									"sup__folder": {
-										"value": "SUP/@{formatDateTime(utcnow(),'dd-MM-yyyy')}",
-										"type": "Expression"
-									}
-								}
-							}
-						]
-					}
-				],
-				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
-				},
-				"annotations": []
-			},
-			"dependsOn": [
-				"[concat(variables('factoryId'), '/datasets/Parquet_SUP')]",
-				"[concat(variables('factoryId'), '/datasets/SUP_Parquet')]"
-			]
-		},
-		{
-			"name": "[concat(parameters('factoryName'), '/trigger_ecom')]",
-			"type": "Microsoft.DataFactory/factories/triggers",
-			"apiVersion": "2018-06-01",
-			"properties": {
-				"annotations": [],
-				"runtimeState": "Started",
-				"pipelines": [
-					{
-						"pipelineReference": {
-							"referenceName": "ECOM_LANDING",
-							"type": "PipelineReference"
-						},
-						"parameters": {}
-					},
-					{
-						"pipelineReference": {
-							"referenceName": "POS_landing_csv",
-							"type": "PipelineReference"
-						},
-						"parameters": {}
-					}
-				],
-				"type": "ScheduleTrigger",
-				"typeProperties": {
-					"recurrence": {
-						"frequency": "Day",
-						"interval": 1,
-						"startTime": "2023-06-22T14:00:00",
-						"timeZone": "Central Standard Time (Mexico)",
-						"schedule": {
-							"minutes": [
-								0
-							],
-							"hours": [
-								14
-							]
-						}
-					}
-				}
-			},
-			"dependsOn": [
-				"[concat(variables('factoryId'), '/pipelines/ECOM_LANDING')]",
-				"[concat(variables('factoryId'), '/pipelines/POS_landing_csv')]"
 			]
 		}
 	]

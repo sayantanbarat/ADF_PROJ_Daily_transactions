@@ -20,6 +20,9 @@
 		"AzureDatabricks_pos_accessToken": {
 			"value": ""
 		},
+		"AzureDatabricks_sup_accessToken": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://proj2storagesb.dfs.core.windows.net/"
 		},
@@ -30,6 +33,9 @@
 			"value": "https://proj2storagesb.dfs.core.windows.net/"
 		},
 		"AzureDatabricks_pos_properties_typeProperties_existingClusterId": {
+			"value": "0617-163117-9xnasxny"
+		},
+		"AzureDatabricks_sup_properties_typeProperties_existingClusterId": {
 			"value": "0617-163117-9xnasxny"
 		},
 		"containerUri": {

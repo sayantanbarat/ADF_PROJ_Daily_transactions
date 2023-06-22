@@ -27,6 +27,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'accessToken' of 'AzureDatabricks_pos'"
 		},
+		"AzureDatabricks_sup_accessToken": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accessToken' of 'AzureDatabricks_sup'"
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "https://proj2storagesb.dfs.core.windows.net/"
@@ -40,6 +44,10 @@
 			"defaultValue": "https://proj2storagesb.dfs.core.windows.net/"
 		},
 		"AzureDatabricks_pos_properties_typeProperties_existingClusterId": {
+			"type": "string",
+			"defaultValue": "0617-163117-9xnasxny"
+		},
+		"AzureDatabricks_sup_properties_typeProperties_existingClusterId": {
 			"type": "string",
 			"defaultValue": "0617-163117-9xnasxny"
 		},
@@ -85,6 +93,9 @@
 					"AzureDatabricks_pos_accessToken": {
 						"value": "[parameters('AzureDatabricks_pos_accessToken')]"
 					},
+					"AzureDatabricks_sup_accessToken": {
+						"value": "[parameters('AzureDatabricks_sup_accessToken')]"
+					},
 					"AzureDataLakeStorage1_properties_typeProperties_url": {
 						"value": "[parameters('AzureDataLakeStorage1_properties_typeProperties_url')]"
 					},
@@ -96,10 +107,33 @@
 					},
 					"AzureDatabricks_pos_properties_typeProperties_existingClusterId": {
 						"value": "[parameters('AzureDatabricks_pos_properties_typeProperties_existingClusterId')]"
+					},
+					"AzureDatabricks_sup_properties_typeProperties_existingClusterId": {
+						"value": "[parameters('AzureDatabricks_sup_properties_typeProperties_existingClusterId')]"
 					}
 				}
 			},
 			"dependsOn": []
+		},
+		{
+			"name": "proj2adfsb_ArmTemplate_1",
+			"type": "Microsoft.Resources/deployments",
+			"apiVersion": "2018-02-01",
+			"properties": {
+				"mode": "incremental",
+				"templateLink": {
+					"uri": "[concat(parameters('containerUri'), '/ArmTemplate_1.json', parameters('containerSasToken'))]",
+					"contentVersion": "1.0.0.0"
+				},
+				"parameters": {
+					"factoryName": {
+						"value": "[parameters('factoryName')]"
+					}
+				}
+			},
+			"dependsOn": [
+				"[resourceId('Microsoft.Resources/deployments', 'proj2adfsb_ArmTemplate_0')]"
+			]
 		}
 	]
 }

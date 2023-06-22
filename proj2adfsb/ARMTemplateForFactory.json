@@ -27,6 +27,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'accessToken' of 'AzureDatabricks_pos'"
 		},
+		"AzureDatabricks_sup_accessToken": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accessToken' of 'AzureDatabricks_sup'"
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "https://proj2storagesb.dfs.core.windows.net/"
@@ -40,6 +44,10 @@
 			"defaultValue": "https://proj2storagesb.dfs.core.windows.net/"
 		},
 		"AzureDatabricks_pos_properties_typeProperties_existingClusterId": {
+			"type": "string",
+			"defaultValue": "0617-163117-9xnasxny"
+		},
+		"AzureDatabricks_sup_properties_typeProperties_existingClusterId": {
 			"type": "string",
 			"defaultValue": "0617-163117-9xnasxny"
 		}
@@ -468,6 +476,102 @@
 								}
 							}
 						]
+					},
+					{
+						"name": "sup_bricks",
+						"type": "DatabricksNotebook",
+						"dependsOn": [
+							{
+								"activity": "Copy SUP THRID PARTY TO LANDING",
+								"dependencyConditions": [
+									"Succeeded"
+								]
+							}
+						],
+						"policy": {
+							"timeout": "0.12:00:00",
+							"retry": 0,
+							"retryIntervalInSeconds": 30,
+							"secureOutput": false,
+							"secureInput": false
+						},
+						"userProperties": [],
+						"typeProperties": {
+							"notebookPath": "/Users/azureproj2@gmail.com/Supplier_Impl"
+						},
+						"linkedServiceName": {
+							"referenceName": "AzureDatabricks_sup",
+							"type": "LinkedServiceReference"
+						}
+					},
+					{
+						"name": "sup_sql_server",
+						"type": "Copy",
+						"dependsOn": [
+							{
+								"activity": "sup_bricks",
+								"dependencyConditions": [
+									"Succeeded"
+								]
+							}
+						],
+						"policy": {
+							"timeout": "0.12:00:00",
+							"retry": 0,
+							"retryIntervalInSeconds": 30,
+							"secureOutput": false,
+							"secureInput": false
+						},
+						"userProperties": [],
+						"typeProperties": {
+							"source": {
+								"type": "ParquetSource",
+								"storeSettings": {
+									"type": "AzureBlobFSReadSettings",
+									"recursive": true,
+									"wildcardFileName": "*.parquet",
+									"enablePartitionDiscovery": false
+								},
+								"formatSettings": {
+									"type": "ParquetReadSettings"
+								}
+							},
+							"sink": {
+								"type": "AzureSqlSink",
+								"writeBehavior": "insert",
+								"sqlWriterUseTableLock": false,
+								"tableOption": "autoCreate",
+								"disableMetricsCollection": false
+							},
+							"enableStaging": false,
+							"translator": {
+								"type": "TabularTranslator",
+								"typeConversion": true,
+								"typeConversionSettings": {
+									"allowDataTruncation": true,
+									"treatBooleanAsNumber": false
+								}
+							}
+						},
+						"inputs": [
+							{
+								"referenceName": "Parquet_sup_stage",
+								"type": "DatasetReference",
+								"parameters": {
+									"folder_path": {
+										"value": "SUP/@{formatDateTime(utcnow(),'dd-MM-yyyy')}",
+										"type": "Expression"
+									}
+								}
+							}
+						],
+						"outputs": [
+							{
+								"referenceName": "AzureSqlTable_sup",
+								"type": "DatasetReference",
+								"parameters": {}
+							}
+						]
 					}
 				],
 				"policy": {
@@ -478,7 +582,10 @@
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/datasets/Parquet_SUP')]",
-				"[concat(variables('factoryId'), '/datasets/SUP_Parquet')]"
+				"[concat(variables('factoryId'), '/datasets/SUP_Parquet')]",
+				"[concat(variables('factoryId'), '/linkedServices/AzureDatabricks_sup')]",
+				"[concat(variables('factoryId'), '/datasets/Parquet_sup_stage')]",
+				"[concat(variables('factoryId'), '/datasets/AzureSqlTable_sup')]"
 			]
 		},
 		{
@@ -937,6 +1044,13 @@
 							"type": "PipelineReference"
 						},
 						"parameters": {}
+					},
+					{
+						"pipelineReference": {
+							"referenceName": "SUP_landing_parquet",
+							"type": "PipelineReference"
+						},
+						"parameters": {}
 					}
 				],
 				"type": "ScheduleTrigger",
@@ -959,7 +1073,8 @@
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/pipelines/ECOM_LANDING')]",
-				"[concat(variables('factoryId'), '/pipelines/POS_landing_csv')]"
+				"[concat(variables('factoryId'), '/pipelines/POS_landing_csv')]",
+				"[concat(variables('factoryId'), '/pipelines/SUP_landing_parquet')]"
 			]
 		},
 		{
@@ -1114,6 +1229,107 @@
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/linkedServices/AzureDataLakeStorage2')]"
+			]
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/AzureDatabricks_sup')]",
+			"type": "Microsoft.DataFactory/factories/linkedServices",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"annotations": [],
+				"type": "AzureDatabricks",
+				"typeProperties": {
+					"domain": "https://adb-1665336865229896.16.azuredatabricks.net",
+					"accessToken": {
+						"type": "SecureString",
+						"value": "[parameters('AzureDatabricks_sup_accessToken')]"
+					},
+					"existingClusterId": "[parameters('AzureDatabricks_sup_properties_typeProperties_existingClusterId')]"
+				}
+			},
+			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/Parquet_sup_stage')]",
+			"type": "Microsoft.DataFactory/factories/datasets",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"linkedServiceName": {
+					"referenceName": "AzureDataLakeStorage2",
+					"type": "LinkedServiceReference"
+				},
+				"parameters": {
+					"folder_path": {
+						"type": "string"
+					}
+				},
+				"annotations": [],
+				"type": "Parquet",
+				"typeProperties": {
+					"location": {
+						"type": "AzureBlobFSLocation",
+						"folderPath": {
+							"value": "@dataset().folder_path",
+							"type": "Expression"
+						},
+						"fileSystem": "staged"
+					},
+					"compressionCodec": "snappy"
+				},
+				"schema": [
+					{
+						"name": "TransactionID",
+						"type": "UTF8"
+					},
+					{
+						"name": "StoreID",
+						"type": "UTF8"
+					},
+					{
+						"name": "ProductID",
+						"type": "UTF8"
+					},
+					{
+						"name": "Quantity",
+						"type": "UTF8"
+					},
+					{
+						"name": "Price",
+						"type": "UTF8"
+					},
+					{
+						"name": "TotalSale",
+						"type": "UTF8"
+					},
+					{
+						"name": "Timestamp",
+						"type": "UTF8"
+					}
+				]
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/linkedServices/AzureDataLakeStorage2')]"
+			]
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/AzureSqlTable_sup')]",
+			"type": "Microsoft.DataFactory/factories/datasets",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"linkedServiceName": {
+					"referenceName": "ecom_sql_ls",
+					"type": "LinkedServiceReference"
+				},
+				"annotations": [],
+				"type": "AzureSqlTable",
+				"schema": [],
+				"typeProperties": {
+					"schema": "dbo",
+					"table": "sup_data"
+				}
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/linkedServices/ecom_sql_ls')]"
 			]
 		}
 	]
