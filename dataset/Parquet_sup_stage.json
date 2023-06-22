@@ -6,7 +6,7 @@
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
-			"folder_p": {
+			"folder_path": {
 				"type": "string"
 			}
 		},
@@ -15,7 +15,10 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"folderPath": "SUP",
+				"folderPath": {
+					"value": "@dataset().folder_path",
+					"type": "Expression"
+				},
 				"fileSystem": "staged"
 			},
 			"compressionCodec": "snappy"

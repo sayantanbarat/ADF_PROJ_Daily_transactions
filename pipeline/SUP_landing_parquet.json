@@ -117,6 +117,7 @@
 						"storeSettings": {
 							"type": "AzureBlobFSReadSettings",
 							"recursive": true,
+							"wildcardFileName": "*.parquet",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
@@ -128,7 +129,13 @@
 				"inputs": [
 					{
 						"referenceName": "Parquet_sup_stage",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"folder_path": {
+								"value": "SUP/@{formatDateTime(utcnow(),'dd-MM-yyyy')}",
+								"type": "Expression"
+							}
+						}
 					}
 				]
 			}
