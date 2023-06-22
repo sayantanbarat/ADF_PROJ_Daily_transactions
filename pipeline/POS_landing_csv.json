@@ -93,7 +93,7 @@
 				}
 			},
 			{
-				"name": "Copy data1",
+				"name": "pos_sqlserver",
 				"type": "Copy",
 				"dependsOn": [
 					{
