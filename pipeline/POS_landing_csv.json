@@ -84,8 +84,11 @@
 					"secureInput": false
 				},
 				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/azureproj2@gmail.com/POS_Impl"
+				},
 				"linkedServiceName": {
-					"referenceName": "ecom_Databricks",
+					"referenceName": "AzureDatabricks_pos",
 					"type": "LinkedServiceReference"
 				}
 			},
