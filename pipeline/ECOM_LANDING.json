@@ -112,7 +112,20 @@
 							"type": "ParquetReadSettings"
 						}
 					},
-					"enableStaging": false
+					"sink": {
+						"type": "AzureSqlSink",
+						"writeBehavior": "insert",
+						"sqlWriterUseTableLock": false
+					},
+					"enableStaging": false,
+					"translator": {
+						"type": "TabularTranslator",
+						"typeConversion": true,
+						"typeConversionSettings": {
+							"allowDataTruncation": true,
+							"treatBooleanAsNumber": false
+						}
+					}
 				},
 				"inputs": [
 					{
@@ -124,6 +137,12 @@
 								"type": "Expression"
 							}
 						}
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "ecom_table",
+						"type": "DatasetReference"
 					}
 				]
 			}
