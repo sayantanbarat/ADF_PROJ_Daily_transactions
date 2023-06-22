@@ -15,7 +15,10 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"folderPath": "ECOM",
+				"folderPath": {
+					"value": "@dataset().folder_path",
+					"type": "Expression"
+				},
 				"fileSystem": "staged"
 			},
 			"compressionCodec": "snappy"
