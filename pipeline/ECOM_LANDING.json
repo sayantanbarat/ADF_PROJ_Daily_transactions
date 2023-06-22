@@ -117,7 +117,13 @@
 				"inputs": [
 					{
 						"referenceName": "Parquet_ecom",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"folder_path": {
+								"value": "ECOM/@{formatDateTime(utcnow(),'dd-MM-yyyy')}",
+								"type": "Expression"
+							}
+						}
 					}
 				]
 			}
