@@ -1,0 +1,57 @@
+{
+	"name": "Parquet1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage2",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"folder_path": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": {
+					"value": "@dataset().folder_path",
+					"type": "Expression"
+				},
+				"fileSystem": "staged"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": [
+			{
+				"name": "TransactionID",
+				"type": "UTF8"
+			},
+			{
+				"name": "StoreID",
+				"type": "UTF8"
+			},
+			{
+				"name": "ProductID",
+				"type": "UTF8"
+			},
+			{
+				"name": "Quantity",
+				"type": "UTF8"
+			},
+			{
+				"name": "TotalSale",
+				"type": "UTF8"
+			},
+			{
+				"name": "Timestamp",
+				"type": "UTF8"
+			},
+			{
+				"name": "Price",
+				"type": "DOUBLE"
+			}
+		]
+	}
+}

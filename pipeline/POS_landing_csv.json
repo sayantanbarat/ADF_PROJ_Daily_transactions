@@ -229,7 +229,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "Parquet_pos_stage",
+						"referenceName": "Parquet1",
 						"type": "DatasetReference"
 					}
 				],
