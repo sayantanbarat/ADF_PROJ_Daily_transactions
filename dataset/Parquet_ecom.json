@@ -1,0 +1,54 @@
+{
+	"name": "Parquet_ecom",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage2",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"folder_path": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "ECOM",
+				"fileSystem": "staged"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": [
+			{
+				"name": "SessionID",
+				"type": "INT64"
+			},
+			{
+				"name": "UserID",
+				"type": "INT64"
+			},
+			{
+				"name": "ProductID",
+				"type": "INT64"
+			},
+			{
+				"name": "Action",
+				"type": "UTF8"
+			},
+			{
+				"name": "Timestamp",
+				"type": "UTF8"
+			},
+			{
+				"name": "Year",
+				"type": "INT32"
+			},
+			{
+				"name": "Month",
+				"type": "INT32"
+			}
+		]
+	}
+}
