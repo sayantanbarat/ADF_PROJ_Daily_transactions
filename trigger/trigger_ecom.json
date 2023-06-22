@@ -15,6 +15,12 @@
 					"referenceName": "POS_landing_csv",
 					"type": "PipelineReference"
 				}
+			},
+			{
+				"pipelineReference": {
+					"referenceName": "SUP_landing_parquet",
+					"type": "PipelineReference"
+				}
 			}
 		],
 		"type": "ScheduleTrigger",
